@@ -14,7 +14,7 @@ class ExtractionResult(BaseModel):
 client = genai.Client()
 
 df = pd.read_csv("scopus_results/included_results.csv")
-abstracts = df[['abstract', 'id']].head(5).to_dict('records')
+abstracts = df[['abstract', 'id']].to_dict('records')
 
 results = []
 rpm_limit = 15
@@ -50,13 +50,13 @@ for i, row in enumerate(tqdm(abstracts, desc="Processing abstracts")):
 		)
 		results.append({
 			"original_index": i,
-			"doi": row['id'],
+			"id": row['id'],
 			"extracted_data": response.text
 		})
 	except Exception as e:
 		results.append({
 			"original_index": i,
-			"doi": row['id'],
+			"id": row['id'],
 			"extracted_data": {"error": str(e)}
 		})
 

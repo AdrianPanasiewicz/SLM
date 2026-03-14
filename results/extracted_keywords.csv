@@ -1,0 +1,1852 @@
+original_index,doi,extracted_data
+0,4290040,"{
+  ""domains"": [
+    ""Not Specified""
+  ],
+  ""models"": [
+    ""Quantum Support Vector Machine"",
+    ""Quantum Support Vector Classifier"",
+    ""Quantum Kernel Estimation-based Quantum Support Vector Regression"",
+    ""QKE-QSVR""
+  ]
+}"
+1,4290037,"{
+  ""domains"": [
+    ""Internet of Things"",
+    ""Cloud Computing""
+  ],
+  ""models"": [
+    ""Parameterized Quantum Circuit"",
+    ""Quantum Reinforcement Learning""
+  ]
+}"
+2,4290036,"{
+  ""domains"": [
+    ""Telecommunications"",
+    ""Cloud Gaming""
+  ],
+  ""models"": [
+    ""Quantum Machine Learning"",
+    ""Quantum-Inspired""
+  ]
+}"
+3,4290035,"{
+  ""domains"": [
+    ""Finance"",
+    ""Astronomy"",
+    ""Biosensors""
+  ],
+  ""models"": [
+    ""QCC-net"",
+    ""time-series Hamiltonian kernel""
+  ]
+}"
+4,4290032,"{
+  ""domains"": [
+    ""Healthcare""
+  ],
+  ""models"": [
+    ""Fused Quantum Dual-Backbone Network""
+  ]
+}"
+5,4290031,"{
+  ""domains"": [
+    ""Not Specified""
+  ],
+  ""models"": [
+    ""quantum kernel methods"",
+    ""quantum classifiers"",
+    ""fidelity-based quantum classification algorithms"",
+    ""quantum feature maps"",
+    ""quantum metric learning""
+  ]
+}"
+6,4290030,"{
+  ""domains"": [
+    ""Healthcare"",
+    ""Dermatology""
+  ],
+  ""models"": [
+    ""Quantum-enhanced classifier""
+  ]
+}"
+7,4290029,"{
+  ""domains"": [
+    ""Cybersecurity"",
+    ""Agriculture"",
+    ""Internet of Things""
+  ],
+  ""models"": [
+    ""hybrid quantum–classical neural network"",
+    ""fully quantum model"",
+    ""hybrid model"",
+    ""enhanced hybrid model""
+  ]
+}"
+8,4290028,"{
+  ""domains"": [
+    ""Not Specified""
+  ],
+  ""models"": [
+    ""Quantum convolutional neural networks"",
+    ""Quantum neural network"",
+    ""Parameterized quantum circuits""
+  ]
+}"
+9,4290026,"{
+  ""domains"": [
+    ""Electric Vehicles"",
+    ""Intelligent Transportation Systems"",
+    ""Battery Management Systems""
+  ],
+  ""models"": [
+    ""Variational Quantum Neural Network"",
+    ""Quantum Anomaly Detector""
+  ]
+}"
+10,4290025,"{
+  ""domains"": [
+    ""Natural Language Processing""
+  ],
+  ""models"": [
+    ""Quantum Recurrent Neural Network"",
+    ""Quantum Long Short-Term Memory""
+  ]
+}"
+11,4290024,"{
+  ""domains"": [
+    ""Not Specified""
+  ],
+  ""models"": [
+    ""Quantum Machine Learning""
+  ]
+}"
+12,4290023,"{'error': ""503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The service is currently unavailable.', 'status': 'UNAVAILABLE'}}""}"
+13,4290022,"{
+  ""domains"": [
+    ""Healthcare"",
+    ""Medical Imaging""
+  ],
+  ""models"": [
+    ""Quantum Convolutional Neural Network"",
+    ""Variational Quantum Classifier""
+  ]
+}"
+14,4290021,"{
+  ""domains"": [
+    ""Image Processing""
+  ],
+  ""models"": [
+    ""Quantum Convolutional Autoencoder"",
+    ""Quantum Approximate Optimization Algorithm-inspired ansatz circuit""
+  ]
+}"
+15,4290019,"{
+  ""domains"": [
+    ""Image Classification""
+  ],
+  ""models"": [
+    ""Parameterized Quantum Circuit""
+  ]
+}"
+16,4290018,"{
+  ""domains"": [
+    ""Natural Language Processing"",
+    ""Computer Vision""
+  ],
+  ""models"": [
+    ""Quantum Self-Attention Model"",
+    ""Variational Quantum Algorithms"",
+    ""Quantum Neural Network"",
+    ""Parameterized Quantum Circuits""
+  ]
+}"
+17,4290015,"{
+  ""domains"": [
+    ""Healthcare""
+  ],
+  ""models"": [
+    ""Quantum-behaved particle swarm optimisation""
+  ]
+}"
+18,4290012,"{
+  ""domains"": [
+    ""Blockchain"",
+    ""Cybersecurity""
+  ],
+  ""models"": [
+    ""Hybrid Quantum–Classical Deep Neural Network""
+  ]
+}"
+19,4290011,"{
+  ""domains"": [
+    ""Electrical Engineering""
+  ],
+  ""models"": [
+    ""quantum variational model"",
+    ""quantum kernel model""
+  ]
+}"
+20,4290009,"{
+  ""domains"": [
+    ""Internet-of-Things"",
+    ""Office room occupancy""
+  ],
+  ""models"": [
+    ""Projected Quantum Kernel"",
+    ""Quantum Kernel""
+  ]
+}"
+21,4290008,"{
+  ""domains"": [
+    ""Optoelectronics"",
+    ""Solar cells"",
+    ""Catalysis"",
+    ""Materials informatics""
+  ],
+  ""models"": [
+    ""Quantum Support Vector Regression""
+  ]
+}"
+22,4290007,"{
+  ""domains"": [
+    ""Not Specified""
+  ],
+  ""models"": [
+    ""Quantum Neural Network""
+  ]
+}"
+23,4290003,"{
+  ""domains"": [
+    ""Healthcare""
+  ],
+  ""models"": [
+    ""Quantum Neural Network"",
+    ""Quantum Support Vector Machine"",
+    ""Bagging-QSVM""
+  ]
+}"
+24,4290000,"{
+  ""domains"": [
+    ""Intelligent transportation systems""
+  ],
+  ""models"": [
+    ""Multilayer Perceptron–Variational Quantum Classifier"",
+    ""Variational Quantum Classifier""
+  ]
+}"
+25,4289998,"{
+  ""domains"": [
+    ""Not Specified""
+  ],
+  ""models"": [
+    ""variational quantum multi-class classifier""
+  ]
+}"
+26,4289997,"{
+  ""domains"": [
+    ""Natural Language Processing""
+  ],
+  ""models"": [
+    ""batch upload quantum recurrent neural network"",
+    ""parameter nonshared batch upload quantum recurrent neural network""
+  ]
+}"
+27,4289996,"{
+  ""domains"": [
+    ""Healthcare""
+  ],
+  ""models"": [
+    ""hybrid quantum neural network"",
+    ""hybrid quantum neural network with a Quanvolutional layer""
+  ]
+}"
+28,4289995,"{
+  ""domains"": [
+    ""Healthcare"",
+    ""Emergency Management""
+  ],
+  ""models"": [
+    ""Quantum Ordering Points To Identify the Clustering Structure""
+  ]
+}"
+29,4289992,"{
+  ""domains"": [
+    ""Mining"",
+    ""Geology""
+  ],
+  ""models"": [
+    ""Not Specified""
+  ]
+}"
+30,4289991,"{
+  ""domains"": [
+    ""Healthcare""
+  ],
+  ""models"": [
+    ""Quantum Variational Classifier"",
+    ""Parameterized Quantum Circuits"",
+    ""Quantum Support Vector Machine"",
+    ""Quantum Variational Kernel Support Vector Machine""
+  ]
+}"
+31,4289990,"{
+  ""domains"": [
+    ""Pattern Recognition""
+  ],
+  ""models"": [
+    ""variational quantum one-class classifier"",
+    ""quantum autoencoder"",
+    ""parameterized quantum circuit""
+  ]
+}"
+32,4289989,"{
+  ""domains"": [
+    ""Not Specified""
+  ],
+  ""models"": [
+    ""Quantum Neural Network""
+  ]
+}"
+33,4289988,"{
+  ""domains"": [
+    ""Manufacturing"",
+    ""Infrastructure Maintenance""
+  ],
+  ""models"": [
+    ""Quantum Neural Network"",
+    ""Shallow Quantum Neural Network"",
+    ""ResNet-SQNN"",
+    ""VGG16-SQNN"",
+    ""Parameterized Quantum Circuit""
+  ]
+}"
+34,4289987,"{
+  ""domains"": [
+    ""Healthcare""
+  ],
+  ""models"": [
+    ""Quantum Generative Adversarial Networks""
+  ]
+}"
+35,4289985,"{
+  ""domains"": [
+    ""Satellite Imagery""
+  ],
+  ""models"": [
+    ""hybrid quantum-classical deep learning model""
+  ]
+}"
+36,4289984,"{
+  ""domains"": [
+    ""Natural Language Processing""
+  ],
+  ""models"": [
+    ""Quantum classifier""
+  ]
+}"
+37,4289982,"{
+  ""domains"": [
+    ""Healthcare"",
+    ""Assistive communication technologies"",
+    ""Biosignal interpretation"",
+    ""Human–computer interaction""
+  ],
+  ""models"": [
+    ""Hybrid quantum–classical model"",
+    ""Variational quantum circuit""
+  ]
+}"
+38,4289979,"{
+  ""domains"": [
+    ""Healthcare""
+  ],
+  ""models"": [
+    ""Quantum Support Vector Classifier"",
+    ""Quantum Neural Network"",
+    ""Quanvolutional Neural Network"",
+    ""Bagging-QSVC""
+  ]
+}"
+39,4289976,"{
+  ""domains"": [
+    ""Healthcare"",
+    ""Agriculture"",
+    ""Food Science""
+  ],
+  ""models"": [
+    ""Quantum-enhanced k-nearest neighbor""
+  ]
+}"
+40,4289975,"{
+  ""domains"": [
+    ""Healthcare"",
+    ""Drug Discovery""
+  ],
+  ""models"": [
+    ""Variational Quantum Regressions""
+  ]
+}"
+41,4289974,"{
+  ""domains"": [
+    ""Time-series forecasting""
+  ],
+  ""models"": [
+    ""Variational quantum circuit"",
+    ""iQTransformer"",
+    ""Quantum self-attention mechanism""
+  ]
+}"
+42,4289973,"{
+  ""domains"": [
+    ""Aeroelasticity""
+  ],
+  ""models"": [
+    ""Hybrid quantum tensor networks"",
+    ""Variational quantum circuits""
+  ]
+}"
+43,4289970,"{
+  ""domains"": [
+    ""Business""
+  ],
+  ""models"": [
+    ""Variational Quantum Algorithms"",
+    ""Instantaneous Quantum Polytime ansatz"",
+    ""Simple Sentiment Analysis ansatz""
+  ]
+}"
+44,4289967,"{
+  ""domains"": [
+    ""Not Specified""
+  ],
+  ""models"": [
+    ""single-qudit quantum neural network"",
+    ""qudit-based QNN""
+  ]
+}"
+45,4289966,"{
+  ""domains"": [
+    ""Cybersecurity"",
+    ""Network Security""
+  ],
+  ""models"": [
+    ""Quantum Support Vector Machine"",
+    ""Parameterized Quantum Circuit""
+  ]
+}"
+46,4289965,"{
+  ""domains"": [
+    ""Image Generation""
+  ],
+  ""models"": [
+    ""Quantum generative adversarial networks"",
+    ""HQWGAN""
+  ]
+}"
+47,4289964,"{
+  ""domains"": [
+    ""Healthcare"",
+    ""Finance""
+  ],
+  ""models"": [
+    ""Quantum Tensor Networks"",
+    ""Federated Quantum Tensor Network""
+  ]
+}"
+48,4289962,"{
+  ""domains"": [
+    ""Finance""
+  ],
+  ""models"": [
+    ""Quantum Neural Network"",
+    ""Tensor Network""
+  ]
+}"
+49,4289957,"{
+  ""domains"": [
+    ""Healthcare""
+  ],
+  ""models"": [
+    ""Quantum Support Vector Machine""
+  ]
+}"
+50,4289956,"{
+  ""domains"": [
+    ""Not Specified""
+  ],
+  ""models"": [
+    ""Boltzmann machine"",
+    ""quantum-assisted associative adversarial network""
+  ]
+}"
+51,4289955,"{
+  ""domains"": [
+    ""Not Specified""
+  ],
+  ""models"": [
+    ""variational quantum circuits"",
+    ""Lean Classical-Quantum Hybrid Neural Network""
+  ]
+}"
+52,4289951,"{
+  ""domains"": [
+    ""Earth observation"",
+    ""Satellite imagery""
+  ],
+  ""models"": [
+    ""Neural quantum kernels"",
+    ""Quantum neural networks""
+  ]
+}"
+53,4289950,"{
+  ""domains"": [
+    ""Telecommunications"",
+    ""Cybersecurity""
+  ],
+  ""models"": [
+    ""Classical-Quantum Neural Networks"",
+    ""Classical-Quantum Boltzmann Machines"",
+    ""Classical-Quantum K-Means Clustering""
+  ]
+}"
+54,4289948,"{
+  ""domains"": [
+    ""Finance""
+  ],
+  ""models"": [
+    ""Quantum Graph Neural Networks"",
+    ""Variational Quantum Circuits""
+  ]
+}"
+55,4289946,"{
+  ""domains"": [
+    ""Healthcare"",
+    ""Intelligent transportation"",
+    ""Power systems"",
+    ""Smart grid""
+  ],
+  ""models"": [
+    ""Quantum federated learning"",
+    ""Quantum orthogonal convolutional neural network"",
+    ""Quantum minimal gated orthogonal convolutional neural network"",
+    ""Quantum convolutional neural network""
+  ]
+}"
+56,4289943,"{
+  ""domains"": [
+    ""Telecommunications""
+  ],
+  ""models"": [
+    ""Quantum long short-term memory"",
+    ""Quantum neural network""
+  ]
+}"
+57,4289942,"{
+  ""domains"": [
+    ""Healthcare"",
+    ""Wearable technology""
+  ],
+  ""models"": [
+    ""Quantum Angle–Distance Kernel""
+  ]
+}"
+58,4289941,"{
+  ""domains"": [
+    ""Healthcare""
+  ],
+  ""models"": [
+    ""Quantum circuit""
+  ]
+}"
+59,4289939,"{
+  ""domains"": [
+    ""Healthcare""
+  ],
+  ""models"": [
+    ""variational quantum circuit"",
+    ""enhanced quantum LSTM linear""
+  ]
+}"
+60,4289938,"{
+  ""domains"": [
+    ""Healthcare""
+  ],
+  ""models"": [
+    ""Quantum Neural Network"",
+    ""Quantum Variational Classifier"",
+    ""Multi-Multi-Single (MMS)"",
+    ""Multi-Single-Multi-Single (MSMS)"",
+    ""Quantum Variational Circuit""
+  ]
+}"
+61,4289936,"{
+  ""domains"": [
+    ""Healthcare"",
+    ""Security"",
+    ""Autonomous systems""
+  ],
+  ""models"": [
+    ""Eulerian Quantum Neural Network""
+  ]
+}"
+62,4289935,"{
+  ""domains"": [
+    ""Healthcare""
+  ],
+  ""models"": [
+    ""quantum-enhanced U-Net"",
+    ""parameterized quantum circuits""
+  ]
+}"
+63,4289934,"{
+  ""domains"": [
+    ""Healthcare"",
+    ""Cybersecurity""
+  ],
+  ""models"": [
+    ""Not Specified""
+  ]
+}"
+64,4289933,"{
+  ""domains"": [
+    ""Healthcare""
+  ],
+  ""models"": [
+    ""optimized quantum support vector machine"",
+    ""hybrid quantum multi-layer perceptron""
+  ]
+}"
+65,4289929,"{
+  ""domains"": [
+    ""Image Processing""
+  ],
+  ""models"": [
+    ""Parameterized Quantum Circuit"",
+    ""Quantum Neural Network""
+  ]
+}"
+66,4289927,"{
+  ""domains"": [
+    ""Oil and Gas""
+  ],
+  ""models"": [
+    ""Quantum Autoencoder"",
+    ""Quantum Classifier""
+  ]
+}"
+67,4289922,"{
+  ""domains"": [
+    ""Healthcare""
+  ],
+  ""models"": [
+    ""Quantum Support Vector Machine""
+  ]
+}"
+68,4289918,"{
+  ""domains"": [
+    ""Finance""
+  ],
+  ""models"": [
+    ""Quantum Long Short-Term Memory""
+  ]
+}"
+69,4289914,"{
+  ""domains"": [
+    ""Healthcare""
+  ],
+  ""models"": [
+    ""Quanvolutional neural network"",
+    ""Quantum support vector classifier""
+  ]
+}"
+70,4289912,"{
+  ""domains"": [
+    ""Neuroscience"",
+    ""Clinical Research""
+  ],
+  ""models"": [
+    ""Quantum-EEGNet""
+  ]
+}"
+71,4289905,"{
+  ""domains"": [
+    ""Telecommunications""
+  ],
+  ""models"": [
+    ""Quantum-based learning models""
+  ]
+}"
+72,4289904,"{
+  ""domains"": [
+    ""Healthcare"",
+    ""Dermatology""
+  ],
+  ""models"": [
+    ""Quantum Patch Attention Vision Transformer""
+  ]
+}"
+73,4289902,"{
+  ""domains"": [
+    ""Earth observation""
+  ],
+  ""models"": [
+    ""hybrid quantum deep learning model""
+  ]
+}"
+74,4289898,"{
+  ""domains"": [
+    ""Astrophysics""
+  ],
+  ""models"": [
+    ""Quantum autoencoder""
+  ]
+}"
+75,4289896,"{
+  ""domains"": [
+    ""Robotics""
+  ],
+  ""models"": [
+    ""hybrid quantum deep reinforcement learning"",
+    ""parameterized quantum circuits"",
+    ""Quantum deep reinforcement learning""
+  ]
+}"
+76,4289895,"{
+  ""domains"": [
+    ""Not Specified""
+  ],
+  ""models"": [
+    ""Quantum classifier algorithm""
+  ]
+}"
+77,4289894,"{
+  ""domains"": [
+    ""Healthcare"",
+    ""Biomedical Research""
+  ],
+  ""models"": [
+    ""Quantum Neural Networks"",
+    ""QNN-64""
+  ]
+}"
+78,4289893,"{
+  ""domains"": [
+    ""Computer Vision""
+  ],
+  ""models"": [
+    ""Quantum convolutional circuit"",
+    ""Hybrid quantum–classical convolutional neural network""
+  ]
+}"
+79,4289891,"{
+  ""domains"": [
+    ""Fraud detection"",
+    ""Medical diagnosis""
+  ],
+  ""models"": [
+    ""Quantum autoencoder""
+  ]
+}"
+80,4289889,"{
+  ""domains"": [
+    ""Healthcare""
+  ],
+  ""models"": [
+    ""Quantum Support Vector Classifier"",
+    ""Quantum Neural Network"",
+    ""Variational Quantum Classifier""
+  ]
+}"
+81,4289888,"{
+  ""domains"": [
+    ""Social Media"",
+    ""Hate Speech Detection""
+  ],
+  ""models"": [
+    ""Variational Quantum Circuit""
+  ]
+}"
+82,4289881,"{
+  ""domains"": [
+    ""Streaming Services"",
+    ""Movie Recommendation""
+  ],
+  ""models"": [
+    ""Quantum Support Vector Machine""
+  ]
+}"
+83,4289879,"{
+  ""domains"": [
+    ""Not Specified""
+  ],
+  ""models"": [
+    ""Parameterized Quantum Circuit""
+  ]
+}"
+84,4289878,"{
+  ""domains"": [
+    ""Fake news detection""
+  ],
+  ""models"": [
+    ""Hybrid Quantum–Deep Neural Network"",
+    ""Parameterized quantum circuit""
+  ]
+}"
+85,4289875,"{
+  ""domains"": [
+    ""Natural Language Processing""
+  ],
+  ""models"": [
+    ""Quantum circuits"",
+    ""Ansatz""
+  ]
+}"
+86,4289874,"{
+  ""domains"": [
+    ""Telecommunications""
+  ],
+  ""models"": [
+    ""Quantum Support Vector Machine""
+  ]
+}"
+87,4289873,"{
+  ""domains"": [
+    ""Finance""
+  ],
+  ""models"": [
+    ""hybrid quantum–classical model""
+  ]
+}"
+88,4289867,"{
+  ""domains"": [
+    ""Cybersecurity"",
+    ""Law Enforcement"",
+    ""Counter-narcotics""
+  ],
+  ""models"": [
+    ""Quantum Threat Detection Model"",
+    ""Quantum kernel""
+  ]
+}"
+89,4289863,"{
+  ""domains"": [
+    ""Autonomous driving""
+  ],
+  ""models"": [
+    ""Quantum Convolutional Neural Network"",
+    ""QCNN""
+  ]
+}"
+90,4289862,"{
+  ""domains"": [
+    ""Healthcare""
+  ],
+  ""models"": [
+    ""parameterized quantum circuits"",
+    ""QE-RNNs""
+  ]
+}"
+91,4289860,"{
+  ""domains"": [
+    ""Materials Science""
+  ],
+  ""models"": [
+    ""hybrid quantum convolutional neural network"",
+    ""quantum residual attention neural network"",
+    ""QSANN"",
+    ""variational quantum regression""
+  ]
+}"
+92,4289859,"{
+  ""domains"": [
+    ""Healthcare""
+  ],
+  ""models"": [
+    ""QDeepColonNet""
+  ]
+}"
+93,4289858,"{
+  ""domains"": [
+    ""Not Specified""
+  ],
+  ""models"": [
+    ""variational quantum circuit""
+  ]
+}"
+94,4289855,"{
+  ""domains"": [
+    ""Healthcare""
+  ],
+  ""models"": [
+    ""hybrid quantum-classical neural network"",
+    ""variational quantum circuits"",
+    ""QResNet18""
+  ]
+}"
+95,4289853,"{
+  ""domains"": [
+    ""Telecommunications""
+  ],
+  ""models"": [
+    ""Quantum Support Vector Machine""
+  ]
+}"
+96,4289850,"{
+  ""domains"": [
+    ""Cybersecurity"",
+    ""Network Traffic Analysis""
+  ],
+  ""models"": [
+    ""Quantum Convolutional Neural Network""
+  ]
+}"
+97,4289849,"{
+  ""domains"": [
+    ""Image Classification""
+  ],
+  ""models"": [
+    ""Adaptive Quantum Convolutional Neural Network"",
+    ""Parameterized Quantum Circuit""
+  ]
+}"
+98,4289847,"{
+  ""domains"": [
+    ""Drug discovery"",
+    ""Chemistry""
+  ],
+  ""models"": [
+    ""hybrid quantum generative models"",
+    ""parameterized quantum circuits"",
+    ""quantum cycle architectures""
+  ]
+}"
+99,4289843,"{
+  ""domains"": [
+    ""Cybersecurity"",
+    ""Network Security"",
+    ""Internet of Things""
+  ],
+  ""models"": [
+    ""Quantum auto-encoder"",
+    ""Quantum one-class support vector machine"",
+    ""Quantum random forest"",
+    ""Quantum k-nearest neighbor""
+  ]
+}"
+100,4289839,"{
+  ""domains"": [
+    ""Mining"",
+    ""Healthcare""
+  ],
+  ""models"": [
+    ""Variational Quantum Classifier""
+  ]
+}"
+101,4289837,"{
+  ""domains"": [
+    ""Cybersecurity""
+  ],
+  ""models"": [
+    ""Quantum support vector machine"",
+    ""Quantum convolution neural network""
+  ]
+}"
+102,4289834,"{
+  ""domains"": [
+    ""Healthcare""
+  ],
+  ""models"": [
+    ""Q-SupCon"",
+    ""quantum data augmentation circuit"",
+    ""quantum encoder"",
+    ""quantum projection head"",
+    ""quantum variational classifier""
+  ]
+}"
+103,4289833,"{
+  ""domains"": [
+    ""Graph Theory"",
+    ""Network Analysis""
+  ],
+  ""models"": [
+    ""Embedded Quantum Density-based Spatial Clustering"",
+    ""discrete-time quantum walks""
+  ]
+}"
+104,4289830,"{
+  ""domains"": [
+    ""Healthcare""
+  ],
+  ""models"": [
+    ""Quantum-Optimized Probabilistic U-Net"",
+    ""Variational Quantum Active Annotation Loop"",
+    ""Hybrid Quantum–Classical Adversarial Domain Harmonization""
+  ]
+}"
+105,4289828,"{
+  ""domains"": [
+    ""Computational Biology""
+  ],
+  ""models"": [
+    ""Quantum Support Vector Machine""
+  ]
+}"
+106,4289827,"{
+  ""domains"": [
+    ""Not Specified""
+  ],
+  ""models"": [
+    ""variational quantum circuit""
+  ]
+}"
+107,4289826,"{
+  ""domains"": [
+    ""Image Processing""
+  ],
+  ""models"": [
+    ""Quantum Denoising Convolutional Neural Network"",
+    ""Quantum-parameterized convolutional layer""
+  ]
+}"
+108,4289824,"{
+  ""domains"": [
+    ""Not Specified""
+  ],
+  ""models"": [
+    ""Quantum Neural Network"",
+    ""Hybrid QNN""
+  ]
+}"
+109,4289821,"{
+  ""domains"": [
+    ""Not Specified""
+  ],
+  ""models"": [
+    ""Boltzmann machines""
+  ]
+}"
+110,4289820,"{
+  ""domains"": [
+    ""Social Networks"",
+    ""Quantum Systems"",
+    ""Information Hiding"",
+    ""Privacy-preserving Computations"",
+    ""Quantum Steganography""
+  ],
+  ""models"": [
+    ""Quantum graph recurrent neural networks""
+  ]
+}"
+111,4289819,"{
+  ""domains"": [
+    ""Healthcare""
+  ],
+  ""models"": [
+    ""QSVM"",
+    ""QkNN"",
+    ""QDT"",
+    ""Quantum Convolutional Neural Network"",
+    ""QCNN"",
+    ""ZZFeatureMap"",
+    ""RealAmplitudes"",
+    ""EfficientSU2""
+  ]
+}"
+112,4289818,"{
+  ""domains"": [
+    ""Healthcare""
+  ],
+  ""models"": [
+    ""Variational Quantum Classifier""
+  ]
+}"
+113,4289817,"{
+  ""domains"": [
+    ""Finance"",
+    ""Materials Science""
+  ],
+  ""models"": [
+    ""Quantum Support Vector Classification"",
+    ""Quantum Support Vector Regression""
+  ]
+}"
+114,4289815,"{
+  ""domains"": [
+    ""Cybersecurity""
+  ],
+  ""models"": [
+    ""Quantum long short-term memory"",
+    ""Variational quantum circuits""
+  ]
+}"
+115,4289813,"{
+  ""domains"": [
+    ""Healthcare""
+  ],
+  ""models"": [
+    ""Hybrid Quantum-Neural Network"",
+    ""Quantum Neural Networks""
+  ]
+}"
+116,4289812,"{
+  ""domains"": [
+    ""Cybersecurity""
+  ],
+  ""models"": [
+    ""hybrid quantum-classical deep learning"",
+    ""variational quantum classifier""
+  ]
+}"
+117,4289811,"{
+  ""domains"": [
+    ""Materials Science""
+  ],
+  ""models"": [
+    ""Quantum Support Vector Classifier""
+  ]
+}"
+118,4289808,"{
+  ""domains"": [
+    ""Finance""
+  ],
+  ""models"": [
+    ""Quantum Support Vector Data Description"",
+    ""Quantum Autoencoder""
+  ]
+}"
+119,4289807,"{
+  ""domains"": [
+    ""Finance""
+  ],
+  ""models"": [
+    ""Binary Quadratic Model""
+  ]
+}"
+120,4289806,"{
+  ""domains"": [
+    ""Astronomy""
+  ],
+  ""models"": [
+    ""Quantum variational rewinding""
+  ]
+}"
+121,4289805,"{
+  ""domains"": [
+    ""Not Specified""
+  ],
+  ""models"": [
+    ""Quantum Federated Learning""
+  ]
+}"
+122,4289801,"{
+  ""domains"": [
+    ""Healthcare""
+  ],
+  ""models"": [
+    ""Not Specified""
+  ]
+}"
+123,4289800,"{
+  ""domains"": [
+    ""Satellite-ground communication""
+  ],
+  ""models"": [
+    ""Quantum federated learning"",
+    ""Slimmable quantum federated learning"",
+    ""Slimmable quantum neural networks""
+  ]
+}"
+124,4289799,"{
+  ""domains"": [
+    ""Natural Language Processing""
+  ],
+  ""models"": [
+    ""classical quantum k-nearest neighbors"",
+    ""quantum k-nearest neighbors""
+  ]
+}"
+125,4289798,"{
+  ""domains"": [
+    ""Image Recognition"",
+    ""Traffic Sign Recognition""
+  ],
+  ""models"": [
+    ""Quanvolutional neural network"",
+    ""Neural Network with Quantum Entanglement""
+  ]
+}"
+126,4289795,"{
+  ""domains"": [
+    ""Not Specified""
+  ],
+  ""models"": [
+    ""Variational quantum classification""
+  ]
+}"
+127,4289792,"{
+  ""domains"": [
+    ""Healthcare""
+  ],
+  ""models"": [
+    ""Quantum support vector machine""
+  ]
+}"
+128,4289791,"{
+  ""domains"": [
+    ""High Energy Physics""
+  ],
+  ""models"": [
+    ""Not Specified""
+  ]
+}"
+129,4289790,"{
+  ""domains"": [
+    ""Image Processing"",
+    ""Natural Language Processing""
+  ],
+  ""models"": [
+    ""Variational quantum circuits"",
+    ""Dressed quantum circuit""
+  ]
+}"
+130,4289787,"{
+  ""domains"": [
+    ""Healthcare""
+  ],
+  ""models"": [
+    ""Pegasos Quantum Support Vector Classifier"",
+    ""Quantum Support Vector Classifier"",
+    ""Quanvolutional Neural Network""
+  ]
+}"
+131,4289782,"{
+  ""domains"": [
+    ""Psychology"",
+    ""Affective Computing""
+  ],
+  ""models"": [
+    ""Quantum variational classifier""
+  ]
+}"
+132,4289781,"{
+  ""domains"": [
+    ""Healthcare""
+  ],
+  ""models"": [
+    ""quantum LSTM""
+  ]
+}"
+133,4289775,"{
+  ""domains"": [
+    ""Finance""
+  ],
+  ""models"": [
+    ""hybrid quantum recurrent neural network"",
+    ""variational quantum circuits""
+  ]
+}"
+134,4289772,"{
+  ""domains"": [
+    ""Restaurant Recommendation""
+  ],
+  ""models"": [
+    ""Quantum Machine Learning"",
+    ""quantum-enhanced clustering"",
+    ""quantum-augmented Long Short Term Memory Recurrent Neural Network""
+  ]
+}"
+135,4289770,"{
+  ""domains"": [
+    ""Artificial Intelligence"",
+    ""Natural Language Processing""
+  ],
+  ""models"": [
+    ""Complex Quantum Kernel Self-Attention Network""
+  ]
+}"
+136,4289768,"{
+  ""domains"": [
+    ""Finance""
+  ],
+  ""models"": [
+    ""Quantum AutoEncoders""
+  ]
+}"
+137,4289767,"{
+  ""domains"": [
+    ""Image Processing""
+  ],
+  ""models"": [
+    ""Spiking Quantum Neural Network"",
+    ""Variational Quantum Circuit"",
+    ""Random Quantum Neural Networks""
+  ]
+}"
+138,4289765,"{
+  ""domains"": [
+    ""Healthcare""
+  ],
+  ""models"": [
+    ""Quantum Support Vector Machine""
+  ]
+}"
+139,4289762,"{
+  ""domains"": [
+    ""Audio Processing""
+  ],
+  ""models"": [
+    ""Quantum Audio Neural Network""
+  ]
+}"
+140,4289760,"{
+  ""domains"": [
+    ""Healthcare""
+  ],
+  ""models"": [
+    ""Quantum transformer learning"",
+    ""Generative adversarial networks""
+  ]
+}"
+141,4289751,"{
+  ""domains"": [
+    ""Healthcare""
+  ],
+  ""models"": [
+    ""quantum k-means""
+  ]
+}"
+142,4289747,"{
+  ""domains"": [
+    ""Natural Language Processing""
+  ],
+  ""models"": [
+    ""Quantum Recurrent Neural Network"",
+    ""Parameterized Quantum Circuit""
+  ]
+}"
+143,4289745,"{
+  ""domains"": [
+    ""Healthcare""
+  ],
+  ""models"": [
+    ""Quantum Support Vector Machine""
+  ]
+}"
+144,4289744,"{
+  ""domains"": [
+    ""Chemistry""
+  ],
+  ""models"": [
+    ""quantum linear regression"",
+    ""quantum radial basis function neural network"",
+    ""quantum neural network""
+  ]
+}"
+145,4289738,"{
+  ""domains"": [
+    ""Restaurant Recommendation"",
+    ""Natural Language Processing""
+  ],
+  ""models"": [
+    ""Quantum-powered OPTICS"",
+    ""Quantum LSTM networks""
+  ]
+}"
+146,4289735,"{
+  ""domains"": [
+    ""Not Specified""
+  ],
+  ""models"": [
+    ""hybrid quantum-classical neural network"",
+    ""parallel proportional fusion of spiking and quantum neural networks"",
+    ""variational quantum circuits""
+  ]
+}"
+147,4289734,"{
+  ""domains"": [
+    ""Finance""
+  ],
+  ""models"": [
+    ""hidden quantum Markov model"",
+    ""hybrid quantum computing model""
+  ]
+}"
+148,4289733,"{
+  ""domains"": [
+    ""Smart Grid"",
+    ""Energy""
+  ],
+  ""models"": [
+    ""Quantum Load IDentification Network"",
+    ""Variational Quantum Circuit""
+  ]
+}"
+149,4289732,"{
+  ""domains"": [
+    ""Finance"",
+    ""Telecommunications""
+  ],
+  ""models"": [
+    ""quantum multi-class classifier"",
+    ""variational circuit""
+  ]
+}"
+150,4289730,"{
+  ""domains"": [
+    ""Underwater pipeline surveillance"",
+    ""Optical fibre surveillance"",
+    ""Ocean bed resource extraction"",
+    ""Ocean floor mapping"",
+    ""Underwater species exploration""
+  ],
+  ""models"": [
+    ""quantum-classical hybrid machine learning methods""
+  ]
+}"
+151,4289727,"{
+  ""domains"": [
+    ""Healthcare""
+  ],
+  ""models"": [
+    ""Quantum Convolutional Neural Network""
+  ]
+}"
+152,4289726,"{
+  ""domains"": [
+    ""Not Specified""
+  ],
+  ""models"": [
+    ""Variational Quantum Algorithms""
+  ]
+}"
+153,4289725,"{
+  ""domains"": [
+    ""Image Classification""
+  ],
+  ""models"": [
+    ""Quantum Convolutional Neural Network"",
+    ""Quantum Autoencoder"",
+    ""Parameterized Quantum Circuit""
+  ]
+}"
+154,4289723,"{
+  ""domains"": [
+    ""Software Engineering""
+  ],
+  ""models"": [
+    ""Enhanced Quantum Support Vector Classifier"",
+    ""Quantum Support Vector Classifier""
+  ]
+}"
+155,4289721,"{
+  ""domains"": [
+    ""Healthcare"",
+    ""Finance"",
+    ""Drug Discovery""
+  ],
+  ""models"": [
+    ""Quantum Support Vector Classifier"",
+    ""Variational Quantum Classifier""
+  ]
+}"
+156,4289718,"{
+  ""domains"": [
+    ""Image processing""
+  ],
+  ""models"": [
+    ""quanvolutional neural network""
+  ]
+}"
+157,4289717,"{
+  ""domains"": [
+    ""Healthcare""
+  ],
+  ""models"": [
+    ""QML-Liver""
+  ]
+}"
+158,4289716,"{
+  ""domains"": [
+    ""Healthcare""
+  ],
+  ""models"": [
+    ""Quantum K-Nearest Neighbors"",
+    ""Quantum Naive Bayes"",
+    ""Quantum Logistic Regression""
+  ]
+}"
+159,4289700,"{
+  ""domains"": [
+    ""Manufacturing"",
+    ""Non-destructive testing""
+  ],
+  ""models"": [
+    ""Quantum-inspired neural networks"",
+    ""Variational quantum circuits""
+  ]
+}"
+160,4289699,"{
+  ""domains"": [
+    ""Additive manufacturing"",
+    ""Metallurgy""
+  ],
+  ""models"": [
+    ""Variational quantum algorithms"",
+    ""Parameterized quantum circuits""
+  ]
+}"
+161,4289698,"{
+  ""domains"": [
+    ""UAV surveillance systems""
+  ],
+  ""models"": [
+    ""Quantum Neural Network"",
+    ""Quantum Convolutional Neural Network"",
+    ""Scalable Quantum Convolutional Neural Network""
+  ]
+}"
+162,4289688,"{
+  ""domains"": [
+    ""Imaging""
+  ],
+  ""models"": [
+    ""Parameterized Quantum Circuit"",
+    ""Quantum Neural Network""
+  ]
+}"
+163,4289686,"{
+  ""domains"": [
+    ""Finance""
+  ],
+  ""models"": [
+    ""Not Specified""
+  ]
+}"
+164,4289684,"{
+  ""domains"": [
+    ""Computer Vision"",
+    ""Transportation""
+  ],
+  ""models"": [
+    ""quantum variational circuits"",
+    ""quantum transfer learning""
+  ]
+}"
+165,4289683,"{
+  ""domains"": [
+    ""Healthcare""
+  ],
+  ""models"": [
+    ""Quantum Support Vector Machine""
+  ]
+}"
+166,4289679,"{
+  ""domains"": [
+    ""Environmental Science"",
+    ""Disaster Management""
+  ],
+  ""models"": [
+    ""Quantum Support Vector Machine"",
+    ""Quantum Neural Network""
+  ]
+}"
+167,4289670,"{
+  ""domains"": [
+    ""Healthcare""
+  ],
+  ""models"": [
+    ""Quantum Support Vector Machine""
+  ]
+}"
+168,4289669,"{
+  ""domains"": [
+    ""Natural Language Processing""
+  ],
+  ""models"": [
+    ""pretrained quantum-inspired deep neural network"",
+    ""QPFE-ERNIE"",
+    ""QWSD""
+  ]
+}"
+169,4289668,"{
+  ""domains"": [
+    ""Healthcare""
+  ],
+  ""models"": [
+    ""quantum deep convolutional generative adversarial networks"",
+    ""QDCGAN""
+  ]
+}"
+170,4289664,"{
+  ""domains"": [
+    ""Not Specified""
+  ],
+  ""models"": [
+    ""Quantum K-nearest neighbors"",
+    ""Quantum neural networks""
+  ]
+}"
+171,4289661,"{
+  ""domains"": [
+    ""Drug Discovery"",
+    ""Healthcare""
+  ],
+  ""models"": [
+    ""Quantum kernel estimation""
+  ]
+}"
+172,4289653,"{
+  ""domains"": [
+    ""Speech Emotion Recognition""
+  ],
+  ""models"": [
+    ""Variational Quantum Classifier"",
+    ""Quantum Support Vector Machine"",
+    ""Quantum Approximate Optimisation Algorithm-based classifier""
+  ]
+}"
+173,4289651,"{
+  ""domains"": [
+    ""Face Recognition""
+  ],
+  ""models"": [
+    ""multigate quantum convolutional neural network"",
+    ""variational quantum circuit""
+  ]
+}"
+174,4289650,"{
+  ""domains"": [
+    ""Sea Clutter""
+  ],
+  ""models"": [
+    ""Quantum Multi-head attention"",
+    ""variational quantum circuit""
+  ]
+}"
+175,4289647,"{
+  ""domains"": [
+    ""Image Classification""
+  ],
+  ""models"": [
+    ""Quantum Neural Network"",
+    ""Hybrid Quantum Neural Network""
+  ]
+}"
+176,4289644,"{
+  ""domains"": [
+    ""Finance""
+  ],
+  ""models"": [
+    ""QLSTM""
+  ]
+}"
+177,4289642,"{
+  ""domains"": [
+    ""Remote sensing"",
+    ""Geospatial"",
+    ""Land use and land cover classification""
+  ],
+  ""models"": [
+    ""Quantum Convolutional Neural Network"",
+    ""Quantum CNN""
+  ]
+}"
+178,4289633,"{
+  ""domains"": [
+    ""Transportation"",
+    ""Urban Mobility""
+  ],
+  ""models"": [
+    ""Variational Quantum Circuit""
+  ]
+}"
+179,4289628,"{
+  ""domains"": [
+    ""Healthcare""
+  ],
+  ""models"": [
+    ""hybrid classical-quantum neural networks""
+  ]
+}"
+180,4289625,"{
+  ""domains"": [
+    ""Computer Vision""
+  ],
+  ""models"": [
+    ""hybrid quantum–classical convolutional neural network"",
+    ""parameterized quantum circuits"",
+    ""quantum neural networks""
+  ]
+}"
+181,4289624,"{
+  ""domains"": [
+    ""Image Processing""
+  ],
+  ""models"": [
+    ""Quantum-inspired machine learning models""
+  ]
+}"
+182,4289621,"{
+  ""domains"": [
+    ""Cybersecurity""
+  ],
+  ""models"": [
+    ""Parameterized Quantum Circuit""
+  ]
+}"
+183,4289616,"{
+  ""domains"": [
+    ""Not Specified""
+  ],
+  ""models"": [
+    ""Quantum Neural Network"",
+    ""Parameterized Quantum Circuit"",
+    ""Hybrid quantum-classical Inception neural network""
+  ]
+}"
+184,4289610,"{
+  ""domains"": [
+    ""Facial expression recognition""
+  ],
+  ""models"": [
+    ""Quantum circuit""
+  ]
+}"
+185,4289609,"{
+  ""domains"": [
+    ""Healthcare"",
+    ""Medical Imaging""
+  ],
+  ""models"": [
+    ""Quantum-enhanced Artificial Neural Network"",
+    ""Parameterized Quantum Circuit""
+  ]
+}"
+186,4289608,"{
+  ""domains"": [
+    ""Cybersecurity""
+  ],
+  ""models"": [
+    ""Quantum Support Vector Machine"",
+    ""Quantum Convolutional Neural Network""
+  ]
+}"
+187,4289606,"{
+  ""domains"": [
+    ""Not Specified""
+  ],
+  ""models"": [
+    ""quantum generative adversarial networks"",
+    ""quantum diffusion model"",
+    ""quantum latent diffusion model"",
+    ""variational circuits""
+  ]
+}"
+188,4289605,"{
+  ""domains"": [
+    ""Remote Sensing"",
+    ""Image Processing""
+  ],
+  ""models"": [
+    ""Hybrid Quantum Classical Convolutional Neural Network""
+  ]
+}"
+189,4289603,"{
+  ""domains"": [
+    ""Not Specified""
+  ],
+  ""models"": [
+    ""Not Specified""
+  ]
+}"
+190,4289602,"{
+  ""domains"": [
+    ""Healthcare""
+  ],
+  ""models"": [
+    ""Quantum Support Vector Machine""
+  ]
+}"
+191,4289601,"{
+  ""domains"": [
+    ""Photovoltaic array fault detection""
+  ],
+  ""models"": [
+    ""Parameterized quantum circuit""
+  ]
+}"
+192,4289600,"{
+  ""domains"": [
+    ""Computational Linguistics""
+  ],
+  ""models"": [
+    ""Quantum Support Vector Machine"",
+    ""Hybrid quantum-classical neural networks"",
+    ""Variational quantum classifier""
+  ]
+}"
+193,4289596,"{
+  ""domains"": [
+    ""Manufacturing"",
+    ""Industrial Inspection""
+  ],
+  ""models"": [
+    ""QSurfNet"",
+    ""Quantum CNN""
+  ]
+}"
+194,4289595,"{
+  ""domains"": [
+    ""Recommender Systems""
+  ],
+  ""models"": [
+    ""Quantum K-means algorithm""
+  ]
+}"
+195,4289594,"{
+  ""domains"": [
+    ""Healthcare""
+  ],
+  ""models"": [
+    ""Quantum Generative Adversarial Networks"",
+    ""Quantum Image Generative Learning"",
+    ""Variational Quantum Circuit""
+  ]
+}"
+196,4289593,"{
+  ""domains"": [
+    ""Image Recognition""
+  ],
+  ""models"": [
+    ""Variational quantum deep neural network""
+  ]
+}"
+197,4289592,"{
+  ""domains"": [
+    ""Structural Health Monitoring"",
+    ""Civil Engineering""
+  ],
+  ""models"": [
+    ""Quantum classifier""
+  ]
+}"
+198,4289591,"{
+  ""domains"": [
+    ""Medicine"",
+    ""Biology"",
+    ""Oncology""
+  ],
+  ""models"": [
+    ""Quantum kernels""
+  ]
+}"
+199,4289590,"{
+  ""domains"": [
+    ""Quantum Chemistry""
+  ],
+  ""models"": [
+    ""Quantum Neural Network"",
+    ""Quantum Extreme Learning Machine""
+  ]
+}"
