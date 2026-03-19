@@ -13,7 +13,7 @@ class ExtractionResult(BaseModel):
 
 client = genai.Client()
 
-df = pd.read_csv("scopus_results/included_results.csv")
+df = pd.read_csv("scopus_and_screening_data/included_results.csv")
 abstracts = df[['abstract', 'id']].to_dict('records')
 
 results = []
@@ -61,4 +61,4 @@ for i, row in enumerate(tqdm(abstracts, desc="Processing abstracts")):
 		})
 
 output_df = pd.DataFrame(results)
-output_df.to_csv(r"results\extracted_keywords.csv", index=False)
+output_df.to_csv(r"processing\extracted_keywords.csv", index=False)
