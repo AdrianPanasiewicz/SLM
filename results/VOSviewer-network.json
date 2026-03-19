@@ -1,0 +1,4383 @@
+{
+  "network": {
+    "items": [
+      {
+        "id": 1,
+        "label": "internet of things",
+        "cluster": 1,
+        "x": -0.8008328843373237,
+        "y": -0.33221313080117987,
+        "weights": {
+          "occurrences": 3
+        }
+      },
+      {
+        "id": 2,
+        "label": "cloud computing",
+        "cluster": 1,
+        "x": -0.8384772253688095,
+        "y": -0.35135714254754524,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 3,
+        "label": "telecommunications",
+        "cluster": 1,
+        "x": -0.6353754052079421,
+        "y": -0.2189512003742724,
+        "weights": {
+          "occurrences": 7
+        }
+      },
+      {
+        "id": 4,
+        "label": "cloud gaming",
+        "cluster": 1,
+        "x": -0.7051813980880094,
+        "y": -0.08427678695231137,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 5,
+        "label": "finance",
+        "cluster": 1,
+        "x": -0.3296415526472699,
+        "y": -0.4988777589309746,
+        "weights": {
+          "occurrences": 15
+        }
+      },
+      {
+        "id": 6,
+        "label": "astronomy",
+        "cluster": 1,
+        "x": -0.40594425448188765,
+        "y": -0.6618380157706625,
+        "weights": {
+          "occurrences": 2
+        }
+      },
+      {
+        "id": 7,
+        "label": "biosensors",
+        "cluster": 1,
+        "x": -0.40334183540637025,
+        "y": -0.6562834084607017,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 8,
+        "label": "healthcare",
+        "cluster": 1,
+        "x": 0.8024800416256551,
+        "y": -0.040122662591941936,
+        "weights": {
+          "occurrences": 56
+        }
+      },
+      {
+        "id": 9,
+        "label": "dermatology",
+        "cluster": 1,
+        "x": 1.1654109820057654,
+        "y": -0.06579994282395817,
+        "weights": {
+          "occurrences": 2
+        }
+      },
+      {
+        "id": 10,
+        "label": "cybersecurity",
+        "cluster": 1,
+        "x": -0.7605852169953335,
+        "y": -0.2937136297030941,
+        "weights": {
+          "occurrences": 12
+        }
+      },
+      {
+        "id": 11,
+        "label": "agriculture",
+        "cluster": 1,
+        "x": -0.7840610667181945,
+        "y": -0.33518804238790856,
+        "weights": {
+          "occurrences": 2
+        }
+      },
+      {
+        "id": 12,
+        "label": "electric vehicles",
+        "cluster": 1,
+        "x": 0.15622961145279368,
+        "y": -0.29061873842469554,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 13,
+        "label": "intelligent transportation systems",
+        "cluster": 1,
+        "x": 0.1491403949473313,
+        "y": -0.27760288230763547,
+        "weights": {
+          "occurrences": 2
+        }
+      },
+      {
+        "id": 14,
+        "label": "battery management systems",
+        "cluster": 1,
+        "x": 0.15623098140117897,
+        "y": -0.29065269116314785,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 15,
+        "label": "natural language processing",
+        "cluster": 1,
+        "x": -0.7012697139093118,
+        "y": 0.3151071803568494,
+        "weights": {
+          "occurrences": 11
+        }
+      },
+      {
+        "id": 16,
+        "label": "medical imaging",
+        "cluster": 1,
+        "x": 0.16383733547613755,
+        "y": 0.0845408371428734,
+        "weights": {
+          "occurrences": 2
+        }
+      },
+      {
+        "id": 17,
+        "label": "image processing",
+        "cluster": 1,
+        "x": -0.19379279594175397,
+        "y": 0.620160136185594,
+        "weights": {
+          "occurrences": 8
+        }
+      },
+      {
+        "id": 18,
+        "label": "image classification",
+        "cluster": 1,
+        "x": -0.14445653722870208,
+        "y": 0.26960622375782173,
+        "weights": {
+          "occurrences": 4
+        }
+      },
+      {
+        "id": 19,
+        "label": "computer vision",
+        "cluster": 1,
+        "x": -0.8672965720771241,
+        "y": 0.5086971807444836,
+        "weights": {
+          "occurrences": 4
+        }
+      },
+      {
+        "id": 20,
+        "label": "blockchain",
+        "cluster": 1,
+        "x": -0.8575071339951645,
+        "y": -0.33538114161075455,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 22,
+        "label": "internet-of-things",
+        "cluster": 1,
+        "x": -1.1395070922933375,
+        "y": -0.46596467869360547,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 23,
+        "label": "office room occupancy",
+        "cluster": 1,
+        "x": -1.1394811703174539,
+        "y": -0.4659475002213863,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 24,
+        "label": "optoelectronics",
+        "cluster": 1,
+        "x": -0.24352149674483478,
+        "y": -0.8760816986196706,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 25,
+        "label": "solar cells",
+        "cluster": 1,
+        "x": -0.24363253259701526,
+        "y": -0.8760763727242609,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 26,
+        "label": "catalysis",
+        "cluster": 1,
+        "x": -0.24352547873259514,
+        "y": -0.8761888186292993,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 27,
+        "label": "materials informatics",
+        "cluster": 1,
+        "x": -0.24364478248940424,
+        "y": -0.8761780378820675,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 28,
+        "label": "emergency management",
+        "cluster": 1,
+        "x": 1.3110588226226165,
+        "y": -0.05036031756167463,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 29,
+        "label": "pattern recognition",
+        "cluster": 1,
+        "x": -0.4071190838833722,
+        "y": 0.25745806068599,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 30,
+        "label": "manufacturing",
+        "cluster": 1,
+        "x": -0.01628954178520239,
+        "y": 0.5315523133359982,
+        "weights": {
+          "occurrences": 3
+        }
+      },
+      {
+        "id": 31,
+        "label": "infrastructure maintenance",
+        "cluster": 1,
+        "x": -0.024605171068476546,
+        "y": 0.5251981301246342,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 32,
+        "label": "satellite imagery",
+        "cluster": 1,
+        "x": -0.1726917581751279,
+        "y": 0.31029743821493244,
+        "weights": {
+          "occurrences": 2
+        }
+      },
+      {
+        "id": 33,
+        "label": "assistive communication technologies",
+        "cluster": 1,
+        "x": -0.1195665520747277,
+        "y": -0.8131311393759899,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 34,
+        "label": "biosignal interpretation",
+        "cluster": 1,
+        "x": -0.11955855973394511,
+        "y": -0.8132059814878204,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 35,
+        "label": "human–computer interaction",
+        "cluster": 1,
+        "x": -0.11963238369164798,
+        "y": -0.813165603226424,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 36,
+        "label": "food science",
+        "cluster": 1,
+        "x": -0.733223799801446,
+        "y": -0.33684109476264307,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 37,
+        "label": "drug discovery",
+        "cluster": 1,
+        "x": 0.2632186765679103,
+        "y": -0.24680829824931058,
+        "weights": {
+          "occurrences": 4
+        }
+      },
+      {
+        "id": 40,
+        "label": "business",
+        "cluster": 1,
+        "x": -1.0632755657915747,
+        "y": 0.6079398531537239,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 41,
+        "label": "network security",
+        "cluster": 1,
+        "x": -0.7730112860005882,
+        "y": -0.31473973747849227,
+        "weights": {
+          "occurrences": 2
+        }
+      },
+      {
+        "id": 42,
+        "label": "image generation",
+        "cluster": 1,
+        "x": 1.4102729120750446,
+        "y": -0.0771749199868809,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 43,
+        "label": "earth observation",
+        "cluster": 1,
+        "x": -0.1724809877968553,
+        "y": 0.3103825899525283,
+        "weights": {
+          "occurrences": 2
+        }
+      },
+      {
+        "id": 44,
+        "label": "intelligent transportation",
+        "cluster": 1,
+        "x": 0.31006141287432337,
+        "y": 0.4842161725743366,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 45,
+        "label": "power systems",
+        "cluster": 1,
+        "x": 0.3101317986374353,
+        "y": 0.4842032672615693,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 46,
+        "label": "smart grid",
+        "cluster": 1,
+        "x": 0.3172866837727916,
+        "y": 0.4947890013424132,
+        "weights": {
+          "occurrences": 2
+        }
+      },
+      {
+        "id": 47,
+        "label": "wearable technology",
+        "cluster": 1,
+        "x": 1.309346213558047,
+        "y": -0.0746675873612744,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 48,
+        "label": "security",
+        "cluster": 1,
+        "x": 2.0692815260936617,
+        "y": -0.1080788492935087,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 49,
+        "label": "autonomous systems",
+        "cluster": 1,
+        "x": 2.069253415499373,
+        "y": -0.10807509079299044,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 50,
+        "label": "oil and gas",
+        "cluster": 1,
+        "x": -0.4618856665126729,
+        "y": 0.2750804736386645,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 53,
+        "label": "astrophysics",
+        "cluster": 1,
+        "x": -0.3970419799344416,
+        "y": 0.24965792489907035,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 55,
+        "label": "biomedical research",
+        "cluster": 1,
+        "x": 0.05145167156147341,
+        "y": 0.19703357848094924,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 56,
+        "label": "fraud detection",
+        "cluster": 1,
+        "x": -0.3971221912787665,
+        "y": 0.24972956982136577,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 57,
+        "label": "medical diagnosis",
+        "cluster": 1,
+        "x": -0.39700632111419193,
+        "y": 0.24975335609390853,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 60,
+        "label": "streaming services",
+        "cluster": 1,
+        "x": -0.2316490612454211,
+        "y": -0.07291384117175317,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 61,
+        "label": "movie recommendation",
+        "cluster": 1,
+        "x": -0.23195776588020336,
+        "y": -0.07314244731746865,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 63,
+        "label": "law enforcement",
+        "cluster": 1,
+        "x": -1.1140401002955704,
+        "y": -0.4543888257564886,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 64,
+        "label": "counter-narcotics",
+        "cluster": 1,
+        "x": -1.1140120631773949,
+        "y": -0.4543790746782043,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 65,
+        "label": "autonomous driving",
+        "cluster": 1,
+        "x": 0.22070371269505218,
+        "y": 0.35542888837207126,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 66,
+        "label": "materials science",
+        "cluster": 1,
+        "x": -0.1741139806039952,
+        "y": -0.7479407862592026,
+        "weights": {
+          "occurrences": 3
+        }
+      },
+      {
+        "id": 67,
+        "label": "network traffic analysis",
+        "cluster": 1,
+        "x": 0.10280713698058844,
+        "y": 0.39938373547474465,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 68,
+        "label": "chemistry",
+        "cluster": 1,
+        "x": 0.24476080464908004,
+        "y": -0.22114446609668595,
+        "weights": {
+          "occurrences": 2
+        }
+      },
+      {
+        "id": 69,
+        "label": "mining",
+        "cluster": 1,
+        "x": 0.07227973895839053,
+        "y": -0.13484609968915381,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 72,
+        "label": "computational biology",
+        "cluster": 1,
+        "x": -0.23201080317253955,
+        "y": -0.07272606072834886,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 78,
+        "label": "satellite-ground communication",
+        "cluster": 1,
+        "x": 0.35857512084658355,
+        "y": 0.5349329956638422,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 79,
+        "label": "image recognition",
+        "cluster": 1,
+        "x": 0.10914143106760027,
+        "y": 0.7477445352905061,
+        "weights": {
+          "occurrences": 2
+        }
+      },
+      {
+        "id": 80,
+        "label": "traffic sign recognition",
+        "cluster": 1,
+        "x": 0.1078683223350198,
+        "y": 0.7413204683392031,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 81,
+        "label": "psychology",
+        "cluster": 1,
+        "x": 1.4843723593609963,
+        "y": -0.09400810448056104,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 82,
+        "label": "affective computing",
+        "cluster": 1,
+        "x": 1.484364435534902,
+        "y": -0.09407308348907775,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 83,
+        "label": "restaurant recommendation",
+        "cluster": 1,
+        "x": -0.745622250747396,
+        "y": 0.08984425337127123,
+        "weights": {
+          "occurrences": 2
+        }
+      },
+      {
+        "id": 84,
+        "label": "artificial intelligence",
+        "cluster": 1,
+        "x": -0.7765200146240085,
+        "y": 0.3550282900240607,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 86,
+        "label": "energy",
+        "cluster": 1,
+        "x": 0.3280663527018999,
+        "y": 0.5106282506080528,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 92,
+        "label": "software engineering",
+        "cluster": 1,
+        "x": 0.13662662355705,
+        "y": -0.5028144900732741,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 93,
+        "label": "non-destructive testing",
+        "cluster": 1,
+        "x": -0.014500241006964093,
+        "y": 0.5568690703351502,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 94,
+        "label": "additive manufacturing",
+        "cluster": 1,
+        "x": -1.0196641233320087,
+        "y": 0.5798913468771396,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 95,
+        "label": "metallurgy",
+        "cluster": 1,
+        "x": -1.0196938801275892,
+        "y": 0.5798440552483941,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 96,
+        "label": "uav surveillance systems",
+        "cluster": 1,
+        "x": 0.005625432354083371,
+        "y": 0.35180845489934154,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 97,
+        "label": "imaging",
+        "cluster": 1,
+        "x": -0.14345349019563589,
+        "y": 0.23786621985944348,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 98,
+        "label": "transportation",
+        "cluster": 1,
+        "x": -0.8953159669181951,
+        "y": 0.5283150677943727,
+        "weights": {
+          "occurrences": 2
+        }
+      },
+      {
+        "id": 99,
+        "label": "environmental science",
+        "cluster": 1,
+        "x": -0.18873199412360106,
+        "y": 0.07906460282795592,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 100,
+        "label": "disaster management",
+        "cluster": 1,
+        "x": -0.18848661984174347,
+        "y": 0.07910001848599033,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 101,
+        "label": "speech emotion recognition",
+        "cluster": 1,
+        "x": -0.03508509809346396,
+        "y": -0.12006575221311896,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 104,
+        "label": "remote sensing",
+        "cluster": 1,
+        "x": -0.03695641474887058,
+        "y": 0.5355027956803956,
+        "weights": {
+          "occurrences": 2
+        }
+      },
+      {
+        "id": 105,
+        "label": "geospatial",
+        "cluster": 1,
+        "x": 0.029955437172528136,
+        "y": 0.48909501994682497,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 106,
+        "label": "land use and land cover classification",
+        "cluster": 1,
+        "x": 0.02988377178111124,
+        "y": 0.48915059474410455,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 108,
+        "label": "facial expression recognition",
+        "cluster": 1,
+        "x": 1.3075855164614882,
+        "y": -0.09892955302719614,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 110,
+        "label": "computational linguistics",
+        "cluster": 1,
+        "x": -0.03612113171838054,
+        "y": -0.12023880796263635,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 111,
+        "label": "industrial inspection",
+        "cluster": 1,
+        "x": 0.0006456461994066715,
+        "y": 0.5273528887117027,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 113,
+        "label": "structural health monitoring",
+        "cluster": 1,
+        "x": -0.4987851445262376,
+        "y": 0.28944657204628305,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 114,
+        "label": "civil engineering",
+        "cluster": 1,
+        "x": -0.49883657258527786,
+        "y": 0.28947688285056145,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 118,
+        "label": "quantum chemistry",
+        "cluster": 1,
+        "x": -0.15421843846959474,
+        "y": 0.26220189898414287,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 119,
+        "label": "quantum reinforcement learning",
+        "cluster": 2,
+        "x": -0.8364920183261748,
+        "y": -0.3503215201138497,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 120,
+        "label": "quantum machine learning",
+        "cluster": 2,
+        "x": -0.7112158862100997,
+        "y": -0.05433164688633261,
+        "weights": {
+          "occurrences": 2
+        }
+      },
+      {
+        "id": 121,
+        "label": "quantum-inspired",
+        "cluster": 2,
+        "x": -0.6979189377697227,
+        "y": -0.10393423831207521,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 122,
+        "label": "qcc-net",
+        "cluster": 2,
+        "x": -0.40207093450001385,
+        "y": -0.6536010707684389,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 123,
+        "label": "time-series hamiltonian kernel",
+        "cluster": 2,
+        "x": -0.4021057259526499,
+        "y": -0.6535937728456976,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 124,
+        "label": "fused quantum dual-backbone network",
+        "cluster": 2,
+        "x": 0.8829193426480945,
+        "y": -0.06237996536696073,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 125,
+        "label": "quantum-enhanced classifier",
+        "cluster": 2,
+        "x": 1.1629839978136998,
+        "y": -0.0656289964686987,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 126,
+        "label": "hybrid quantum–classical neural network",
+        "cluster": 2,
+        "x": -0.7942524319468287,
+        "y": -0.333216687103743,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 127,
+        "label": "fully quantum model",
+        "cluster": 2,
+        "x": -0.7940694223975491,
+        "y": -0.333196072617632,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 128,
+        "label": "hybrid model",
+        "cluster": 2,
+        "x": -0.7940525528161902,
+        "y": -0.3333510315404325,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 129,
+        "label": "enhanced hybrid model",
+        "cluster": 2,
+        "x": -0.79421743701353,
+        "y": -0.3333543675524884,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 130,
+        "label": "variational quantum neural network",
+        "cluster": 2,
+        "x": 0.1554285239573929,
+        "y": -0.2891498961220582,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 131,
+        "label": "quantum anomaly detector",
+        "cluster": 2,
+        "x": 0.15541536227424058,
+        "y": -0.2891717212241222,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 132,
+        "label": "quantum recurrent neural network",
+        "cluster": 2,
+        "x": -0.718068852810293,
+        "y": 0.3233336039401859,
+        "weights": {
+          "occurrences": 2
+        }
+      },
+      {
+        "id": 133,
+        "label": "quantum long short-term memory",
+        "cluster": 2,
+        "x": -0.6267775869786802,
+        "y": -0.1715062252592186,
+        "weights": {
+          "occurrences": 4
+        }
+      },
+      {
+        "id": 134,
+        "label": "quantum convolutional neural network",
+        "cluster": 2,
+        "x": 0.09863087770785912,
+        "y": 0.39029355824015927,
+        "weights": {
+          "occurrences": 10
+        }
+      },
+      {
+        "id": 135,
+        "label": "variational quantum classifier",
+        "cluster": 2,
+        "x": 0.07002532040215288,
+        "y": -0.1318359904289374,
+        "weights": {
+          "occurrences": 9
+        }
+      },
+      {
+        "id": 136,
+        "label": "quantum convolutional autoencoder",
+        "cluster": 2,
+        "x": -0.19649469906711528,
+        "y": 0.6304720592118046,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 137,
+        "label": "quantum approximate optimization algorithm-inspired ansatz circuit",
+        "cluster": 2,
+        "x": -0.19653811853306874,
+        "y": 0.6302495255722008,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 138,
+        "label": "quantum self-attention model",
+        "cluster": 2,
+        "x": -0.8270883765817857,
+        "y": 0.45605106863909556,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 139,
+        "label": "variational quantum algorithms",
+        "cluster": 2,
+        "x": -1.0144133568721667,
+        "y": 0.5764766875036444,
+        "weights": {
+          "occurrences": 3
+        }
+      },
+      {
+        "id": 140,
+        "label": "quantum neural network",
+        "cluster": 2,
+        "x": -0.1408592558499158,
+        "y": 0.23145225312381465,
+        "weights": {
+          "occurrences": 19
+        }
+      },
+      {
+        "id": 141,
+        "label": "quantum-behaved particle swarm optimisation",
+        "cluster": 2,
+        "x": 0.9012052015302405,
+        "y": -0.03295227983579467,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 142,
+        "label": "hybrid quantum–classical deep neural network",
+        "cluster": 2,
+        "x": -0.855433660318737,
+        "y": -0.3344887957082637,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 145,
+        "label": "projected quantum kernel",
+        "cluster": 2,
+        "x": -1.1418595379452467,
+        "y": -0.46703961226448176,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 146,
+        "label": "quantum kernel",
+        "cluster": 2,
+        "x": -1.1218012891555638,
+        "y": -0.4579046578955182,
+        "weights": {
+          "occurrences": 2
+        }
+      },
+      {
+        "id": 147,
+        "label": "quantum support vector regression",
+        "cluster": 2,
+        "x": -0.24238310466202215,
+        "y": -0.8694017645311359,
+        "weights": {
+          "occurrences": 2
+        }
+      },
+      {
+        "id": 148,
+        "label": "quantum support vector machine",
+        "cluster": 2,
+        "x": -0.22667090779680404,
+        "y": -0.0692957912029784,
+        "weights": {
+          "occurrences": 20
+        }
+      },
+      {
+        "id": 149,
+        "label": "bagging-qsvm",
+        "cluster": 2,
+        "x": 0.8813079192443811,
+        "y": -0.0343538436200227,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 150,
+        "label": "multilayer perceptron–variational quantum classifier",
+        "cluster": 2,
+        "x": 0.15011993004757807,
+        "y": -0.2793636470997776,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 151,
+        "label": "batch upload quantum recurrent neural network",
+        "cluster": 2,
+        "x": -0.7175550890776683,
+        "y": 0.3233387270058686,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 152,
+        "label": "parameter nonshared batch upload quantum recurrent neural network",
+        "cluster": 2,
+        "x": -0.7183902831571933,
+        "y": 0.32371248623432236,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 153,
+        "label": "hybrid quantum neural network",
+        "cluster": 2,
+        "x": -0.09998320322705591,
+        "y": 0.25798811274201566,
+        "weights": {
+          "occurrences": 2
+        }
+      },
+      {
+        "id": 154,
+        "label": "hybrid quantum neural network with a quanvolutional layer",
+        "cluster": 2,
+        "x": 0.9105675352042151,
+        "y": -0.0402503992749806,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 155,
+        "label": "quantum ordering points to identify the clustering structure",
+        "cluster": 2,
+        "x": 1.3085408815948087,
+        "y": -0.05030964045817807,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 156,
+        "label": "quantum variational classifier",
+        "cluster": 2,
+        "x": 1.4776579564155372,
+        "y": -0.09348811499255597,
+        "weights": {
+          "occurrences": 4
+        }
+      },
+      {
+        "id": 157,
+        "label": "quantum variational kernel support vector machine",
+        "cluster": 2,
+        "x": 0.8903865774486318,
+        "y": -0.04964130612358056,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 158,
+        "label": "variational quantum one-class classifier",
+        "cluster": 2,
+        "x": -0.4080672804505968,
+        "y": 0.2581850573195317,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 159,
+        "label": "quantum autoencoder",
+        "cluster": 2,
+        "x": -0.39398062055493827,
+        "y": 0.24741122402924823,
+        "weights": {
+          "occurrences": 6
+        }
+      },
+      {
+        "id": 160,
+        "label": "shallow quantum neural network",
+        "cluster": 2,
+        "x": -0.021371343598210912,
+        "y": 0.5314128599017272,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 161,
+        "label": "resnet-sqnn",
+        "cluster": 2,
+        "x": -0.021456277758918774,
+        "y": 0.531450998009986,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 162,
+        "label": "vgg16-sqnn",
+        "cluster": 2,
+        "x": -0.02142230755876527,
+        "y": 0.5313639552838018,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 163,
+        "label": "quantum generative adversarial networks",
+        "cluster": 2,
+        "x": 1.3945744381922902,
+        "y": -0.07623902660789618,
+        "weights": {
+          "occurrences": 3
+        }
+      },
+      {
+        "id": 164,
+        "label": "hybrid quantum-classical deep learning model",
+        "cluster": 2,
+        "x": -0.17325245973955192,
+        "y": 0.31164803511048667,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 165,
+        "label": "quantum classifier",
+        "cluster": 2,
+        "x": -0.4964370741800722,
+        "y": 0.287780064503115,
+        "weights": {
+          "occurrences": 3
+        }
+      },
+      {
+        "id": 166,
+        "label": "hybrid quantum–classical model",
+        "cluster": 2,
+        "x": -0.1195864297802584,
+        "y": -0.8078754020210466,
+        "weights": {
+          "occurrences": 2
+        }
+      },
+      {
+        "id": 167,
+        "label": "quantum support vector classifier",
+        "cluster": 2,
+        "x": 0.12729633838498813,
+        "y": -0.4758197715062822,
+        "weights": {
+          "occurrences": 7
+        }
+      },
+      {
+        "id": 168,
+        "label": "quanvolutional neural network",
+        "cluster": 2,
+        "x": 0.10244388246741568,
+        "y": 0.7139060287955913,
+        "weights": {
+          "occurrences": 5
+        }
+      },
+      {
+        "id": 169,
+        "label": "bagging-qsvc",
+        "cluster": 2,
+        "x": 0.9042453060005974,
+        "y": -0.038649837866241175,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 170,
+        "label": "quantum-enhanced k-nearest neighbor",
+        "cluster": 2,
+        "x": -0.7309301954344671,
+        "y": -0.3353505464353838,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 171,
+        "label": "variational quantum regressions",
+        "cluster": 2,
+        "x": 0.2986998492454863,
+        "y": -0.2396612085267559,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 175,
+        "label": "instantaneous quantum polytime ansatz",
+        "cluster": 2,
+        "x": -1.0665400501631264,
+        "y": 0.610032000613442,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 176,
+        "label": "simple sentiment analysis ansatz",
+        "cluster": 2,
+        "x": -1.066549497120822,
+        "y": 0.610050973633168,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 177,
+        "label": "hqwgan",
+        "cluster": 2,
+        "x": 1.4129009199411597,
+        "y": -0.07733438536169623,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 178,
+        "label": "quantum tensor networks",
+        "cluster": 2,
+        "x": -0.12118362321324597,
+        "y": -0.4370575657631179,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 179,
+        "label": "federated quantum tensor network",
+        "cluster": 2,
+        "x": -0.1209309577866268,
+        "y": -0.4374128989369034,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 180,
+        "label": "tensor network",
+        "cluster": 2,
+        "x": -0.3363590914475794,
+        "y": -0.5156689299571323,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 181,
+        "label": "neural quantum kernels",
+        "cluster": 2,
+        "x": -0.17312618059617643,
+        "y": 0.31168809844660816,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 182,
+        "label": "classical-quantum neural networks",
+        "cluster": 2,
+        "x": -0.6900646912267127,
+        "y": -0.24971152944928304,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 183,
+        "label": "classical-quantum boltzmann machines",
+        "cluster": 2,
+        "x": -0.6900418152446423,
+        "y": -0.24944706206764425,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 184,
+        "label": "classical-quantum k-means clustering",
+        "cluster": 2,
+        "x": -0.689828561663268,
+        "y": -0.2496067602483077,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 185,
+        "label": "quantum graph neural networks",
+        "cluster": 2,
+        "x": -0.3368960023971208,
+        "y": -0.5158549955676227,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 186,
+        "label": "quantum federated learning",
+        "cluster": 2,
+        "x": 0.33411723243478364,
+        "y": 0.5007540066547301,
+        "weights": {
+          "occurrences": 2
+        }
+      },
+      {
+        "id": 187,
+        "label": "quantum orthogonal convolutional neural network",
+        "cluster": 2,
+        "x": 0.32177447802086695,
+        "y": 0.483488873604858,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 188,
+        "label": "quantum minimal gated orthogonal convolutional neural network",
+        "cluster": 2,
+        "x": 0.32172861229421634,
+        "y": 0.4834597780579688,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 189,
+        "label": "quantum angle–distance kernel",
+        "cluster": 2,
+        "x": 1.3068279184308609,
+        "y": -0.07448005925877467,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 190,
+        "label": "quantum circuit",
+        "cluster": 2,
+        "x": 1.3050784940513258,
+        "y": -0.09862102655818276,
+        "weights": {
+          "occurrences": 2
+        }
+      },
+      {
+        "id": 191,
+        "label": "enhanced quantum lstm linear",
+        "cluster": 2,
+        "x": 0.8979826344348963,
+        "y": -0.026488733350605885,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 192,
+        "label": "multi-multi-single (mms)",
+        "cluster": 2,
+        "x": 0.897385776637511,
+        "y": -0.062043200347062684,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 193,
+        "label": "multi-single-multi-single (msms)",
+        "cluster": 2,
+        "x": 0.9111196775242475,
+        "y": -0.05008755557764657,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 194,
+        "label": "quantum variational circuit",
+        "cluster": 2,
+        "x": 0.8846574732645601,
+        "y": -0.038455547671813896,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 195,
+        "label": "eulerian quantum neural network",
+        "cluster": 2,
+        "x": 2.065081538643974,
+        "y": -0.10786729146075175,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 196,
+        "label": "quantum-enhanced u-net",
+        "cluster": 2,
+        "x": 0.8905751276675474,
+        "y": -0.04246904193081902,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 197,
+        "label": "optimized quantum support vector machine",
+        "cluster": 2,
+        "x": 0.9006464670414869,
+        "y": -0.06597623628739689,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 198,
+        "label": "hybrid quantum multi-layer perceptron",
+        "cluster": 2,
+        "x": 0.9044249158656004,
+        "y": -0.0631151036254172,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 200,
+        "label": "quantum-based learning models",
+        "cluster": 2,
+        "x": -0.6435398218946046,
+        "y": -0.2224143989730532,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 201,
+        "label": "quantum patch attention vision transformer",
+        "cluster": 2,
+        "x": 1.1630187366996154,
+        "y": -0.06563298255087849,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 202,
+        "label": "hybrid quantum deep learning model",
+        "cluster": 2,
+        "x": -0.1729884868134743,
+        "y": 0.311743841906293,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 205,
+        "label": "qnn-64",
+        "cluster": 2,
+        "x": 0.06680410663664406,
+        "y": 0.1932769492647265,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 206,
+        "label": "quantum convolutional circuit",
+        "cluster": 2,
+        "x": -0.8757556213762498,
+        "y": 0.5145626592210687,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 207,
+        "label": "hybrid quantum–classical convolutional neural network",
+        "cluster": 2,
+        "x": -0.8757228560911524,
+        "y": 0.5146442693732868,
+        "weights": {
+          "occurrences": 2
+        }
+      },
+      {
+        "id": 209,
+        "label": "quantum circuits",
+        "cluster": 2,
+        "x": -0.7177661504959815,
+        "y": 0.3239455086940732,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 210,
+        "label": "ansatz",
+        "cluster": 2,
+        "x": -0.718021060070365,
+        "y": 0.3245885022891072,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 211,
+        "label": "quantum threat detection model",
+        "cluster": 2,
+        "x": -1.1025410454250288,
+        "y": -0.4491521996814253,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 212,
+        "label": "qcnn",
+        "cluster": 2,
+        "x": 0.23356148508458927,
+        "y": 0.34949364041555325,
+        "weights": {
+          "occurrences": 2
+        }
+      },
+      {
+        "id": 213,
+        "label": "qe-rnns",
+        "cluster": 2,
+        "x": 0.8985050594078736,
+        "y": -0.05121678028535635,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 214,
+        "label": "hybrid quantum convolutional neural network",
+        "cluster": 2,
+        "x": -0.1747468199374197,
+        "y": -0.7549067358653959,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 215,
+        "label": "quantum residual attention neural network",
+        "cluster": 2,
+        "x": -0.17485461273750313,
+        "y": -0.7548239738827645,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 216,
+        "label": "qsann",
+        "cluster": 2,
+        "x": -0.1746631467305489,
+        "y": -0.754805387417833,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 217,
+        "label": "variational quantum regression",
+        "cluster": 2,
+        "x": -0.17476139693584694,
+        "y": -0.7547313975245196,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 218,
+        "label": "qdeepcolonnet",
+        "cluster": 2,
+        "x": 0.8783734524761988,
+        "y": -0.053908770318175855,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 219,
+        "label": "hybrid quantum-classical neural network",
+        "cluster": 2,
+        "x": 0.9056182366280101,
+        "y": -0.051667095515861156,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 220,
+        "label": "qresnet18",
+        "cluster": 2,
+        "x": 0.8802034033496358,
+        "y": -0.0583895666022642,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 221,
+        "label": "adaptive quantum convolutional neural network",
+        "cluster": 2,
+        "x": -0.14498916356561686,
+        "y": 0.271378354810268,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 222,
+        "label": "hybrid quantum generative models",
+        "cluster": 2,
+        "x": 0.2553189361179102,
+        "y": -0.23486701749668062,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 223,
+        "label": "quantum cycle architectures",
+        "cluster": 2,
+        "x": 0.2552674480534411,
+        "y": -0.23492685189821727,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 224,
+        "label": "quantum auto-encoder",
+        "cluster": 2,
+        "x": -0.7878124925844676,
+        "y": -0.3211243939524329,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 225,
+        "label": "quantum one-class support vector machine",
+        "cluster": 2,
+        "x": -0.7877893645003478,
+        "y": -0.32129492012704586,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 226,
+        "label": "quantum random forest",
+        "cluster": 2,
+        "x": -0.7876450384806014,
+        "y": -0.32111627893887906,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 227,
+        "label": "quantum k-nearest neighbor",
+        "cluster": 2,
+        "x": -0.7876370218539794,
+        "y": -0.32128622554181374,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 228,
+        "label": "quantum convolution neural network",
+        "cluster": 2,
+        "x": -0.7808813408581745,
+        "y": -0.3018007039725729,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 229,
+        "label": "q-supcon",
+        "cluster": 2,
+        "x": 0.877866686121085,
+        "y": -0.04393820415655475,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 230,
+        "label": "quantum data augmentation circuit",
+        "cluster": 2,
+        "x": 0.9022128821931527,
+        "y": -0.05771561534436761,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 231,
+        "label": "quantum encoder",
+        "cluster": 2,
+        "x": 0.8959119934185981,
+        "y": -0.06736327523596465,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 232,
+        "label": "quantum projection head",
+        "cluster": 2,
+        "x": 0.8860481136646351,
+        "y": -0.05766277234468974,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 235,
+        "label": "quantum-optimized probabilistic u-net",
+        "cluster": 2,
+        "x": 0.8986134209511656,
+        "y": -0.04419213348470815,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 236,
+        "label": "variational quantum active annotation loop",
+        "cluster": 2,
+        "x": 0.8891847417662907,
+        "y": -0.033796262316408525,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 237,
+        "label": "hybrid quantum–classical adversarial domain harmonization",
+        "cluster": 2,
+        "x": 0.8790716570175273,
+        "y": -0.0391414525496398,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 238,
+        "label": "quantum denoising convolutional neural network",
+        "cluster": 2,
+        "x": -0.19630362441901839,
+        "y": 0.6305902996748393,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 239,
+        "label": "quantum-parameterized convolutional layer",
+        "cluster": 2,
+        "x": -0.19601316952066491,
+        "y": 0.6302935823062847,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 241,
+        "label": "qsvm",
+        "cluster": 2,
+        "x": 0.8864090235998019,
+        "y": -0.06548456539968461,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 242,
+        "label": "qknn",
+        "cluster": 2,
+        "x": 0.9114395707799132,
+        "y": -0.045115995218027186,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 243,
+        "label": "qdt",
+        "cluster": 2,
+        "x": 0.8834073166849297,
+        "y": -0.051803661047671645,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 244,
+        "label": "zzfeaturemap",
+        "cluster": 2,
+        "x": 0.8832413573449792,
+        "y": -0.04514061328820925,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 245,
+        "label": "realamplitudes",
+        "cluster": 2,
+        "x": 0.9059944941690102,
+        "y": -0.04502904013711259,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 246,
+        "label": "efficientsu2",
+        "cluster": 2,
+        "x": 0.8777410844864441,
+        "y": -0.04891557368381966,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 247,
+        "label": "quantum support vector classification",
+        "cluster": 2,
+        "x": -0.21199308396274377,
+        "y": -0.699611627594882,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 248,
+        "label": "hybrid quantum-neural network",
+        "cluster": 2,
+        "x": 0.8905654216877169,
+        "y": -0.06260466212157287,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 249,
+        "label": "hybrid quantum-classical deep learning",
+        "cluster": 2,
+        "x": -0.7806520411112748,
+        "y": -0.30193459080427604,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 250,
+        "label": "quantum support vector data description",
+        "cluster": 2,
+        "x": -0.33636508442475727,
+        "y": -0.5145793112028351,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 251,
+        "label": "binary quadratic model",
+        "cluster": 2,
+        "x": -0.337459929690343,
+        "y": -0.5156563270318918,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 252,
+        "label": "quantum variational rewinding",
+        "cluster": 2,
+        "x": -0.4072421015606088,
+        "y": -0.6646044927999912,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 253,
+        "label": "slimmable quantum federated learning",
+        "cluster": 2,
+        "x": 0.36020640276920673,
+        "y": 0.5372228615654795,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 254,
+        "label": "slimmable quantum neural networks",
+        "cluster": 2,
+        "x": 0.3602301961146285,
+        "y": 0.5372333557677941,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 255,
+        "label": "classical quantum k-nearest neighbors",
+        "cluster": 2,
+        "x": -0.7175135377844567,
+        "y": 0.3245980868789872,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 256,
+        "label": "quantum k-nearest neighbors",
+        "cluster": 2,
+        "x": -0.4710791838321891,
+        "y": 0.268603443824814,
+        "weights": {
+          "occurrences": 2
+        }
+      },
+      {
+        "id": 257,
+        "label": "neural network with quantum entanglement",
+        "cluster": 2,
+        "x": 0.10886158707888428,
+        "y": 0.7463701264328091,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 258,
+        "label": "dressed quantum circuit",
+        "cluster": 2,
+        "x": -0.3802098906908415,
+        "y": 0.5227779973624092,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 259,
+        "label": "pegasos quantum support vector classifier",
+        "cluster": 2,
+        "x": 0.8883609166778619,
+        "y": -0.02797709809792048,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 260,
+        "label": "quantum lstm",
+        "cluster": 2,
+        "x": 0.8927530165177703,
+        "y": -0.02624970664807355,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 261,
+        "label": "hybrid quantum recurrent neural network",
+        "cluster": 2,
+        "x": -0.33613070637487585,
+        "y": -0.5151263270152187,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 262,
+        "label": "quantum-enhanced clustering",
+        "cluster": 2,
+        "x": -0.750104709517051,
+        "y": 0.09039141193344757,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 263,
+        "label": "quantum-augmented long short term memory recurrent neural network",
+        "cluster": 2,
+        "x": -0.7500619551147505,
+        "y": 0.09041238986394261,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 264,
+        "label": "complex quantum kernel self-attention network",
+        "cluster": 2,
+        "x": -0.774688417072564,
+        "y": 0.35403698107441905,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 265,
+        "label": "quantum autoencoders",
+        "cluster": 2,
+        "x": -0.33691862455983457,
+        "y": -0.5143435720538407,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 266,
+        "label": "spiking quantum neural network",
+        "cluster": 2,
+        "x": -0.1961554444433163,
+        "y": 0.6301092783787211,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 267,
+        "label": "random quantum neural networks",
+        "cluster": 2,
+        "x": -0.196379495698576,
+        "y": 0.6300789025206859,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 269,
+        "label": "quantum transformer learning",
+        "cluster": 2,
+        "x": 0.8958695531795601,
+        "y": -0.03742077096191037,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 270,
+        "label": "generative adversarial networks",
+        "cluster": 2,
+        "x": 0.9063836534904455,
+        "y": -0.03166118265007189,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 271,
+        "label": "quantum k-means",
+        "cluster": 2,
+        "x": 0.9075735099669215,
+        "y": -0.059383136032927046,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 272,
+        "label": "quantum linear regression",
+        "cluster": 2,
+        "x": 0.2466585616152423,
+        "y": -0.22283777348877878,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 273,
+        "label": "quantum radial basis function neural network",
+        "cluster": 2,
+        "x": 0.2466110290696225,
+        "y": -0.22288650656637923,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 274,
+        "label": "quantum-powered optics",
+        "cluster": 2,
+        "x": -0.7437456708269877,
+        "y": 0.13632291703871113,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 275,
+        "label": "quantum lstm networks",
+        "cluster": 2,
+        "x": -0.7438138562860328,
+        "y": 0.13629885214706633,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 276,
+        "label": "hidden quantum markov model",
+        "cluster": 2,
+        "x": -0.3369002426632455,
+        "y": -0.5150883985436345,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 277,
+        "label": "hybrid quantum computing model",
+        "cluster": 2,
+        "x": -0.3376939925181341,
+        "y": -0.5151193393651361,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 278,
+        "label": "quantum load identification network",
+        "cluster": 2,
+        "x": 0.32709508579756974,
+        "y": 0.5091791544446448,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 279,
+        "label": "quantum multi-class classifier",
+        "cluster": 2,
+        "x": -0.5391289654146745,
+        "y": -0.3221221594932869,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 280,
+        "label": "variational circuit",
+        "cluster": 2,
+        "x": -0.53919265920781,
+        "y": -0.3222736474329782,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 282,
+        "label": "enhanced quantum support vector classifier",
+        "cluster": 2,
+        "x": 0.13716916886310682,
+        "y": -0.5043215629884518,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 283,
+        "label": "qml-liver",
+        "cluster": 2,
+        "x": 0.9089846867899223,
+        "y": -0.035688724940635456,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 284,
+        "label": "quantum naive bayes",
+        "cluster": 2,
+        "x": 0.8844777049562116,
+        "y": -0.03072953561603492,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 285,
+        "label": "quantum logistic regression",
+        "cluster": 2,
+        "x": 0.902446817035036,
+        "y": -0.02819318231542544,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 286,
+        "label": "quantum-inspired neural networks",
+        "cluster": 2,
+        "x": -0.014614163657775443,
+        "y": 0.5551904458943371,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 287,
+        "label": "scalable quantum convolutional neural network",
+        "cluster": 2,
+        "x": 0.005951243789795109,
+        "y": 0.35318090752272424,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 288,
+        "label": "quantum variational circuits",
+        "cluster": 2,
+        "x": -0.8933875064824593,
+        "y": 0.5269396478328586,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 289,
+        "label": "quantum transfer learning",
+        "cluster": 2,
+        "x": -0.8933492976209936,
+        "y": 0.526947051761758,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 290,
+        "label": "pretrained quantum-inspired deep neural network",
+        "cluster": 2,
+        "x": -0.7171701360804925,
+        "y": 0.32422619857135976,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 291,
+        "label": "qpfe-ernie",
+        "cluster": 2,
+        "x": -0.7171625451949754,
+        "y": 0.3237125590615763,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 292,
+        "label": "qwsd",
+        "cluster": 2,
+        "x": -0.7183684040227799,
+        "y": 0.32422705691947795,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 293,
+        "label": "quantum deep convolutional generative adversarial networks",
+        "cluster": 2,
+        "x": 0.8912747614151985,
+        "y": -0.06745141765685418,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 294,
+        "label": "qdcgan",
+        "cluster": 2,
+        "x": 0.894862064010739,
+        "y": -0.030562940713778977,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 295,
+        "label": "quantum kernel estimation",
+        "cluster": 2,
+        "x": 0.29860125403730436,
+        "y": -0.23958994880171505,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 296,
+        "label": "quantum approximate optimisation algorithm-based classifier",
+        "cluster": 2,
+        "x": -0.03495841810555891,
+        "y": -0.12074186673126426,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 299,
+        "label": "qlstm",
+        "cluster": 2,
+        "x": -0.3374696223869244,
+        "y": -0.5145700790418468,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 300,
+        "label": "quantum cnn",
+        "cluster": 2,
+        "x": 0.008170696897573404,
+        "y": 0.5114736314815289,
+        "weights": {
+          "occurrences": 2
+        }
+      },
+      {
+        "id": 301,
+        "label": "hybrid classical-quantum neural networks",
+        "cluster": 2,
+        "x": 0.9098044187899537,
+        "y": -0.055132550561123046,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 302,
+        "label": "quantum-inspired machine learning models",
+        "cluster": 2,
+        "x": -0.19608282634967245,
+        "y": 0.6305203141399525,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 303,
+        "label": "quantum-enhanced artificial neural network",
+        "cluster": 2,
+        "x": 0.1841891217436743,
+        "y": 0.08138993965882861,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 304,
+        "label": "hybrid quantum classical convolutional neural network",
+        "cluster": 2,
+        "x": -0.07087150157263974,
+        "y": 0.5575002663732573,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 305,
+        "label": "hybrid quantum-classical neural networks",
+        "cluster": 2,
+        "x": -0.036058868716653425,
+        "y": -0.12092611640578334,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 306,
+        "label": "qsurfnet",
+        "cluster": 2,
+        "x": -0.002820666295907182,
+        "y": 0.5306782289273749,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 308,
+        "label": "quantum image generative learning",
+        "cluster": 2,
+        "x": 0.8933733982892099,
+        "y": -0.05634465443365385,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 309,
+        "label": "variational quantum deep neural network",
+        "cluster": 2,
+        "x": 0.10978460226574838,
+        "y": 0.7509354469866237,
+        "weights": {
+          "occurrences": 1
+        }
+      },
+      {
+        "id": 311,
+        "label": "quantum extreme learning machine",
+        "cluster": 2,
+        "x": -0.15450184709123702,
+        "y": 0.2628538283054773,
+        "weights": {
+          "occurrences": 1
+        }
+      }
+    ],
+    "links": [
+      {
+        "source_id": 1,
+        "target_id": 119,
+        "strength": 1
+      },
+      {
+        "source_id": 1,
+        "target_id": 126,
+        "strength": 1
+      },
+      {
+        "source_id": 1,
+        "target_id": 127,
+        "strength": 1
+      },
+      {
+        "source_id": 1,
+        "target_id": 128,
+        "strength": 1
+      },
+      {
+        "source_id": 1,
+        "target_id": 129,
+        "strength": 1
+      },
+      {
+        "source_id": 1,
+        "target_id": 224,
+        "strength": 1
+      },
+      {
+        "source_id": 1,
+        "target_id": 225,
+        "strength": 1
+      },
+      {
+        "source_id": 1,
+        "target_id": 226,
+        "strength": 1
+      },
+      {
+        "source_id": 1,
+        "target_id": 227,
+        "strength": 1
+      },
+      {
+        "source_id": 2,
+        "target_id": 119,
+        "strength": 1
+      },
+      {
+        "source_id": 3,
+        "target_id": 120,
+        "strength": 1
+      },
+      {
+        "source_id": 3,
+        "target_id": 121,
+        "strength": 1
+      },
+      {
+        "source_id": 3,
+        "target_id": 133,
+        "strength": 1
+      },
+      {
+        "source_id": 3,
+        "target_id": 140,
+        "strength": 1
+      },
+      {
+        "source_id": 3,
+        "target_id": 148,
+        "strength": 2
+      },
+      {
+        "source_id": 3,
+        "target_id": 182,
+        "strength": 1
+      },
+      {
+        "source_id": 3,
+        "target_id": 183,
+        "strength": 1
+      },
+      {
+        "source_id": 3,
+        "target_id": 184,
+        "strength": 1
+      },
+      {
+        "source_id": 3,
+        "target_id": 200,
+        "strength": 1
+      },
+      {
+        "source_id": 3,
+        "target_id": 279,
+        "strength": 1
+      },
+      {
+        "source_id": 3,
+        "target_id": 280,
+        "strength": 1
+      },
+      {
+        "source_id": 4,
+        "target_id": 120,
+        "strength": 1
+      },
+      {
+        "source_id": 4,
+        "target_id": 121,
+        "strength": 1
+      },
+      {
+        "source_id": 5,
+        "target_id": 122,
+        "strength": 1
+      },
+      {
+        "source_id": 5,
+        "target_id": 123,
+        "strength": 1
+      },
+      {
+        "source_id": 5,
+        "target_id": 133,
+        "strength": 1
+      },
+      {
+        "source_id": 5,
+        "target_id": 135,
+        "strength": 1
+      },
+      {
+        "source_id": 5,
+        "target_id": 140,
+        "strength": 1
+      },
+      {
+        "source_id": 5,
+        "target_id": 147,
+        "strength": 1
+      },
+      {
+        "source_id": 5,
+        "target_id": 159,
+        "strength": 1
+      },
+      {
+        "source_id": 5,
+        "target_id": 166,
+        "strength": 1
+      },
+      {
+        "source_id": 5,
+        "target_id": 167,
+        "strength": 1
+      },
+      {
+        "source_id": 5,
+        "target_id": 178,
+        "strength": 1
+      },
+      {
+        "source_id": 5,
+        "target_id": 179,
+        "strength": 1
+      },
+      {
+        "source_id": 5,
+        "target_id": 180,
+        "strength": 1
+      },
+      {
+        "source_id": 5,
+        "target_id": 185,
+        "strength": 1
+      },
+      {
+        "source_id": 5,
+        "target_id": 247,
+        "strength": 1
+      },
+      {
+        "source_id": 5,
+        "target_id": 250,
+        "strength": 1
+      },
+      {
+        "source_id": 5,
+        "target_id": 251,
+        "strength": 1
+      },
+      {
+        "source_id": 5,
+        "target_id": 261,
+        "strength": 1
+      },
+      {
+        "source_id": 5,
+        "target_id": 265,
+        "strength": 1
+      },
+      {
+        "source_id": 5,
+        "target_id": 276,
+        "strength": 1
+      },
+      {
+        "source_id": 5,
+        "target_id": 277,
+        "strength": 1
+      },
+      {
+        "source_id": 5,
+        "target_id": 279,
+        "strength": 1
+      },
+      {
+        "source_id": 5,
+        "target_id": 280,
+        "strength": 1
+      },
+      {
+        "source_id": 5,
+        "target_id": 299,
+        "strength": 1
+      },
+      {
+        "source_id": 6,
+        "target_id": 122,
+        "strength": 1
+      },
+      {
+        "source_id": 6,
+        "target_id": 123,
+        "strength": 1
+      },
+      {
+        "source_id": 6,
+        "target_id": 252,
+        "strength": 1
+      },
+      {
+        "source_id": 7,
+        "target_id": 122,
+        "strength": 1
+      },
+      {
+        "source_id": 7,
+        "target_id": 123,
+        "strength": 1
+      },
+      {
+        "source_id": 8,
+        "target_id": 124,
+        "strength": 1
+      },
+      {
+        "source_id": 8,
+        "target_id": 125,
+        "strength": 1
+      },
+      {
+        "source_id": 8,
+        "target_id": 134,
+        "strength": 4
+      },
+      {
+        "source_id": 8,
+        "target_id": 135,
+        "strength": 5
+      },
+      {
+        "source_id": 8,
+        "target_id": 140,
+        "strength": 6
+      },
+      {
+        "source_id": 8,
+        "target_id": 141,
+        "strength": 1
+      },
+      {
+        "source_id": 8,
+        "target_id": 148,
+        "strength": 10
+      },
+      {
+        "source_id": 8,
+        "target_id": 149,
+        "strength": 1
+      },
+      {
+        "source_id": 8,
+        "target_id": 153,
+        "strength": 1
+      },
+      {
+        "source_id": 8,
+        "target_id": 154,
+        "strength": 1
+      },
+      {
+        "source_id": 8,
+        "target_id": 155,
+        "strength": 1
+      },
+      {
+        "source_id": 8,
+        "target_id": 156,
+        "strength": 3
+      },
+      {
+        "source_id": 8,
+        "target_id": 157,
+        "strength": 1
+      },
+      {
+        "source_id": 8,
+        "target_id": 163,
+        "strength": 2
+      },
+      {
+        "source_id": 8,
+        "target_id": 166,
+        "strength": 1
+      },
+      {
+        "source_id": 8,
+        "target_id": 167,
+        "strength": 5
+      },
+      {
+        "source_id": 8,
+        "target_id": 168,
+        "strength": 3
+      },
+      {
+        "source_id": 8,
+        "target_id": 169,
+        "strength": 1
+      },
+      {
+        "source_id": 8,
+        "target_id": 170,
+        "strength": 1
+      },
+      {
+        "source_id": 8,
+        "target_id": 171,
+        "strength": 1
+      },
+      {
+        "source_id": 8,
+        "target_id": 178,
+        "strength": 1
+      },
+      {
+        "source_id": 8,
+        "target_id": 179,
+        "strength": 1
+      },
+      {
+        "source_id": 8,
+        "target_id": 186,
+        "strength": 1
+      },
+      {
+        "source_id": 8,
+        "target_id": 187,
+        "strength": 1
+      },
+      {
+        "source_id": 8,
+        "target_id": 188,
+        "strength": 1
+      },
+      {
+        "source_id": 8,
+        "target_id": 189,
+        "strength": 1
+      },
+      {
+        "source_id": 8,
+        "target_id": 190,
+        "strength": 1
+      },
+      {
+        "source_id": 8,
+        "target_id": 191,
+        "strength": 1
+      },
+      {
+        "source_id": 8,
+        "target_id": 192,
+        "strength": 1
+      },
+      {
+        "source_id": 8,
+        "target_id": 193,
+        "strength": 1
+      },
+      {
+        "source_id": 8,
+        "target_id": 194,
+        "strength": 1
+      },
+      {
+        "source_id": 8,
+        "target_id": 195,
+        "strength": 1
+      },
+      {
+        "source_id": 8,
+        "target_id": 196,
+        "strength": 1
+      },
+      {
+        "source_id": 8,
+        "target_id": 197,
+        "strength": 1
+      },
+      {
+        "source_id": 8,
+        "target_id": 198,
+        "strength": 1
+      },
+      {
+        "source_id": 8,
+        "target_id": 201,
+        "strength": 1
+      },
+      {
+        "source_id": 8,
+        "target_id": 205,
+        "strength": 1
+      },
+      {
+        "source_id": 8,
+        "target_id": 212,
+        "strength": 1
+      },
+      {
+        "source_id": 8,
+        "target_id": 213,
+        "strength": 1
+      },
+      {
+        "source_id": 8,
+        "target_id": 218,
+        "strength": 1
+      },
+      {
+        "source_id": 8,
+        "target_id": 219,
+        "strength": 1
+      },
+      {
+        "source_id": 8,
+        "target_id": 220,
+        "strength": 1
+      },
+      {
+        "source_id": 8,
+        "target_id": 229,
+        "strength": 1
+      },
+      {
+        "source_id": 8,
+        "target_id": 230,
+        "strength": 1
+      },
+      {
+        "source_id": 8,
+        "target_id": 231,
+        "strength": 1
+      },
+      {
+        "source_id": 8,
+        "target_id": 232,
+        "strength": 1
+      },
+      {
+        "source_id": 8,
+        "target_id": 235,
+        "strength": 1
+      },
+      {
+        "source_id": 8,
+        "target_id": 236,
+        "strength": 1
+      },
+      {
+        "source_id": 8,
+        "target_id": 237,
+        "strength": 1
+      },
+      {
+        "source_id": 8,
+        "target_id": 241,
+        "strength": 1
+      },
+      {
+        "source_id": 8,
+        "target_id": 242,
+        "strength": 1
+      },
+      {
+        "source_id": 8,
+        "target_id": 243,
+        "strength": 1
+      },
+      {
+        "source_id": 8,
+        "target_id": 244,
+        "strength": 1
+      },
+      {
+        "source_id": 8,
+        "target_id": 245,
+        "strength": 1
+      },
+      {
+        "source_id": 8,
+        "target_id": 246,
+        "strength": 1
+      },
+      {
+        "source_id": 8,
+        "target_id": 248,
+        "strength": 1
+      },
+      {
+        "source_id": 8,
+        "target_id": 256,
+        "strength": 1
+      },
+      {
+        "source_id": 8,
+        "target_id": 259,
+        "strength": 1
+      },
+      {
+        "source_id": 8,
+        "target_id": 260,
+        "strength": 1
+      },
+      {
+        "source_id": 8,
+        "target_id": 269,
+        "strength": 1
+      },
+      {
+        "source_id": 8,
+        "target_id": 270,
+        "strength": 1
+      },
+      {
+        "source_id": 8,
+        "target_id": 271,
+        "strength": 1
+      },
+      {
+        "source_id": 8,
+        "target_id": 283,
+        "strength": 1
+      },
+      {
+        "source_id": 8,
+        "target_id": 284,
+        "strength": 1
+      },
+      {
+        "source_id": 8,
+        "target_id": 285,
+        "strength": 1
+      },
+      {
+        "source_id": 8,
+        "target_id": 293,
+        "strength": 1
+      },
+      {
+        "source_id": 8,
+        "target_id": 294,
+        "strength": 1
+      },
+      {
+        "source_id": 8,
+        "target_id": 295,
+        "strength": 1
+      },
+      {
+        "source_id": 8,
+        "target_id": 301,
+        "strength": 1
+      },
+      {
+        "source_id": 8,
+        "target_id": 303,
+        "strength": 1
+      },
+      {
+        "source_id": 8,
+        "target_id": 308,
+        "strength": 1
+      },
+      {
+        "source_id": 9,
+        "target_id": 125,
+        "strength": 1
+      },
+      {
+        "source_id": 9,
+        "target_id": 201,
+        "strength": 1
+      },
+      {
+        "source_id": 10,
+        "target_id": 126,
+        "strength": 1
+      },
+      {
+        "source_id": 10,
+        "target_id": 127,
+        "strength": 1
+      },
+      {
+        "source_id": 10,
+        "target_id": 128,
+        "strength": 1
+      },
+      {
+        "source_id": 10,
+        "target_id": 129,
+        "strength": 1
+      },
+      {
+        "source_id": 10,
+        "target_id": 133,
+        "strength": 1
+      },
+      {
+        "source_id": 10,
+        "target_id": 134,
+        "strength": 2
+      },
+      {
+        "source_id": 10,
+        "target_id": 135,
+        "strength": 1
+      },
+      {
+        "source_id": 10,
+        "target_id": 142,
+        "strength": 1
+      },
+      {
+        "source_id": 10,
+        "target_id": 146,
+        "strength": 1
+      },
+      {
+        "source_id": 10,
+        "target_id": 148,
+        "strength": 3
+      },
+      {
+        "source_id": 10,
+        "target_id": 182,
+        "strength": 1
+      },
+      {
+        "source_id": 10,
+        "target_id": 183,
+        "strength": 1
+      },
+      {
+        "source_id": 10,
+        "target_id": 184,
+        "strength": 1
+      },
+      {
+        "source_id": 10,
+        "target_id": 211,
+        "strength": 1
+      },
+      {
+        "source_id": 10,
+        "target_id": 224,
+        "strength": 1
+      },
+      {
+        "source_id": 10,
+        "target_id": 225,
+        "strength": 1
+      },
+      {
+        "source_id": 10,
+        "target_id": 226,
+        "strength": 1
+      },
+      {
+        "source_id": 10,
+        "target_id": 227,
+        "strength": 1
+      },
+      {
+        "source_id": 10,
+        "target_id": 228,
+        "strength": 1
+      },
+      {
+        "source_id": 10,
+        "target_id": 249,
+        "strength": 1
+      },
+      {
+        "source_id": 11,
+        "target_id": 126,
+        "strength": 1
+      },
+      {
+        "source_id": 11,
+        "target_id": 127,
+        "strength": 1
+      },
+      {
+        "source_id": 11,
+        "target_id": 128,
+        "strength": 1
+      },
+      {
+        "source_id": 11,
+        "target_id": 129,
+        "strength": 1
+      },
+      {
+        "source_id": 11,
+        "target_id": 170,
+        "strength": 1
+      },
+      {
+        "source_id": 12,
+        "target_id": 130,
+        "strength": 1
+      },
+      {
+        "source_id": 12,
+        "target_id": 131,
+        "strength": 1
+      },
+      {
+        "source_id": 13,
+        "target_id": 130,
+        "strength": 1
+      },
+      {
+        "source_id": 13,
+        "target_id": 131,
+        "strength": 1
+      },
+      {
+        "source_id": 13,
+        "target_id": 135,
+        "strength": 1
+      },
+      {
+        "source_id": 13,
+        "target_id": 150,
+        "strength": 1
+      },
+      {
+        "source_id": 14,
+        "target_id": 130,
+        "strength": 1
+      },
+      {
+        "source_id": 14,
+        "target_id": 131,
+        "strength": 1
+      },
+      {
+        "source_id": 15,
+        "target_id": 132,
+        "strength": 2
+      },
+      {
+        "source_id": 15,
+        "target_id": 133,
+        "strength": 1
+      },
+      {
+        "source_id": 15,
+        "target_id": 138,
+        "strength": 1
+      },
+      {
+        "source_id": 15,
+        "target_id": 139,
+        "strength": 1
+      },
+      {
+        "source_id": 15,
+        "target_id": 140,
+        "strength": 1
+      },
+      {
+        "source_id": 15,
+        "target_id": 151,
+        "strength": 1
+      },
+      {
+        "source_id": 15,
+        "target_id": 152,
+        "strength": 1
+      },
+      {
+        "source_id": 15,
+        "target_id": 165,
+        "strength": 1
+      },
+      {
+        "source_id": 15,
+        "target_id": 209,
+        "strength": 1
+      },
+      {
+        "source_id": 15,
+        "target_id": 210,
+        "strength": 1
+      },
+      {
+        "source_id": 15,
+        "target_id": 255,
+        "strength": 1
+      },
+      {
+        "source_id": 15,
+        "target_id": 256,
+        "strength": 1
+      },
+      {
+        "source_id": 15,
+        "target_id": 258,
+        "strength": 1
+      },
+      {
+        "source_id": 15,
+        "target_id": 264,
+        "strength": 1
+      },
+      {
+        "source_id": 15,
+        "target_id": 274,
+        "strength": 1
+      },
+      {
+        "source_id": 15,
+        "target_id": 275,
+        "strength": 1
+      },
+      {
+        "source_id": 15,
+        "target_id": 290,
+        "strength": 1
+      },
+      {
+        "source_id": 15,
+        "target_id": 291,
+        "strength": 1
+      },
+      {
+        "source_id": 15,
+        "target_id": 292,
+        "strength": 1
+      },
+      {
+        "source_id": 16,
+        "target_id": 134,
+        "strength": 1
+      },
+      {
+        "source_id": 16,
+        "target_id": 135,
+        "strength": 1
+      },
+      {
+        "source_id": 16,
+        "target_id": 303,
+        "strength": 1
+      },
+      {
+        "source_id": 17,
+        "target_id": 136,
+        "strength": 1
+      },
+      {
+        "source_id": 17,
+        "target_id": 137,
+        "strength": 1
+      },
+      {
+        "source_id": 17,
+        "target_id": 140,
+        "strength": 1
+      },
+      {
+        "source_id": 17,
+        "target_id": 168,
+        "strength": 1
+      },
+      {
+        "source_id": 17,
+        "target_id": 238,
+        "strength": 1
+      },
+      {
+        "source_id": 17,
+        "target_id": 239,
+        "strength": 1
+      },
+      {
+        "source_id": 17,
+        "target_id": 258,
+        "strength": 1
+      },
+      {
+        "source_id": 17,
+        "target_id": 266,
+        "strength": 1
+      },
+      {
+        "source_id": 17,
+        "target_id": 267,
+        "strength": 1
+      },
+      {
+        "source_id": 17,
+        "target_id": 302,
+        "strength": 1
+      },
+      {
+        "source_id": 17,
+        "target_id": 304,
+        "strength": 1
+      },
+      {
+        "source_id": 18,
+        "target_id": 134,
+        "strength": 1
+      },
+      {
+        "source_id": 18,
+        "target_id": 140,
+        "strength": 1
+      },
+      {
+        "source_id": 18,
+        "target_id": 153,
+        "strength": 1
+      },
+      {
+        "source_id": 18,
+        "target_id": 159,
+        "strength": 1
+      },
+      {
+        "source_id": 18,
+        "target_id": 221,
+        "strength": 1
+      },
+      {
+        "source_id": 19,
+        "target_id": 138,
+        "strength": 1
+      },
+      {
+        "source_id": 19,
+        "target_id": 139,
+        "strength": 1
+      },
+      {
+        "source_id": 19,
+        "target_id": 140,
+        "strength": 2
+      },
+      {
+        "source_id": 19,
+        "target_id": 206,
+        "strength": 1
+      },
+      {
+        "source_id": 19,
+        "target_id": 207,
+        "strength": 2
+      },
+      {
+        "source_id": 19,
+        "target_id": 288,
+        "strength": 1
+      },
+      {
+        "source_id": 19,
+        "target_id": 289,
+        "strength": 1
+      },
+      {
+        "source_id": 20,
+        "target_id": 142,
+        "strength": 1
+      },
+      {
+        "source_id": 22,
+        "target_id": 145,
+        "strength": 1
+      },
+      {
+        "source_id": 22,
+        "target_id": 146,
+        "strength": 1
+      },
+      {
+        "source_id": 23,
+        "target_id": 145,
+        "strength": 1
+      },
+      {
+        "source_id": 23,
+        "target_id": 146,
+        "strength": 1
+      },
+      {
+        "source_id": 24,
+        "target_id": 147,
+        "strength": 1
+      },
+      {
+        "source_id": 25,
+        "target_id": 147,
+        "strength": 1
+      },
+      {
+        "source_id": 26,
+        "target_id": 147,
+        "strength": 1
+      },
+      {
+        "source_id": 27,
+        "target_id": 147,
+        "strength": 1
+      },
+      {
+        "source_id": 28,
+        "target_id": 155,
+        "strength": 1
+      },
+      {
+        "source_id": 29,
+        "target_id": 158,
+        "strength": 1
+      },
+      {
+        "source_id": 29,
+        "target_id": 159,
+        "strength": 1
+      },
+      {
+        "source_id": 30,
+        "target_id": 140,
+        "strength": 1
+      },
+      {
+        "source_id": 30,
+        "target_id": 160,
+        "strength": 1
+      },
+      {
+        "source_id": 30,
+        "target_id": 161,
+        "strength": 1
+      },
+      {
+        "source_id": 30,
+        "target_id": 162,
+        "strength": 1
+      },
+      {
+        "source_id": 30,
+        "target_id": 286,
+        "strength": 1
+      },
+      {
+        "source_id": 30,
+        "target_id": 300,
+        "strength": 1
+      },
+      {
+        "source_id": 30,
+        "target_id": 306,
+        "strength": 1
+      },
+      {
+        "source_id": 31,
+        "target_id": 140,
+        "strength": 1
+      },
+      {
+        "source_id": 31,
+        "target_id": 160,
+        "strength": 1
+      },
+      {
+        "source_id": 31,
+        "target_id": 161,
+        "strength": 1
+      },
+      {
+        "source_id": 31,
+        "target_id": 162,
+        "strength": 1
+      },
+      {
+        "source_id": 32,
+        "target_id": 140,
+        "strength": 1
+      },
+      {
+        "source_id": 32,
+        "target_id": 164,
+        "strength": 1
+      },
+      {
+        "source_id": 32,
+        "target_id": 181,
+        "strength": 1
+      },
+      {
+        "source_id": 33,
+        "target_id": 166,
+        "strength": 1
+      },
+      {
+        "source_id": 34,
+        "target_id": 166,
+        "strength": 1
+      },
+      {
+        "source_id": 35,
+        "target_id": 166,
+        "strength": 1
+      },
+      {
+        "source_id": 36,
+        "target_id": 170,
+        "strength": 1
+      },
+      {
+        "source_id": 37,
+        "target_id": 135,
+        "strength": 1
+      },
+      {
+        "source_id": 37,
+        "target_id": 167,
+        "strength": 1
+      },
+      {
+        "source_id": 37,
+        "target_id": 171,
+        "strength": 1
+      },
+      {
+        "source_id": 37,
+        "target_id": 222,
+        "strength": 1
+      },
+      {
+        "source_id": 37,
+        "target_id": 223,
+        "strength": 1
+      },
+      {
+        "source_id": 37,
+        "target_id": 295,
+        "strength": 1
+      },
+      {
+        "source_id": 40,
+        "target_id": 139,
+        "strength": 1
+      },
+      {
+        "source_id": 40,
+        "target_id": 175,
+        "strength": 1
+      },
+      {
+        "source_id": 40,
+        "target_id": 176,
+        "strength": 1
+      },
+      {
+        "source_id": 41,
+        "target_id": 148,
+        "strength": 1
+      },
+      {
+        "source_id": 41,
+        "target_id": 224,
+        "strength": 1
+      },
+      {
+        "source_id": 41,
+        "target_id": 225,
+        "strength": 1
+      },
+      {
+        "source_id": 41,
+        "target_id": 226,
+        "strength": 1
+      },
+      {
+        "source_id": 41,
+        "target_id": 227,
+        "strength": 1
+      },
+      {
+        "source_id": 42,
+        "target_id": 163,
+        "strength": 1
+      },
+      {
+        "source_id": 42,
+        "target_id": 177,
+        "strength": 1
+      },
+      {
+        "source_id": 43,
+        "target_id": 140,
+        "strength": 1
+      },
+      {
+        "source_id": 43,
+        "target_id": 181,
+        "strength": 1
+      },
+      {
+        "source_id": 43,
+        "target_id": 202,
+        "strength": 1
+      },
+      {
+        "source_id": 44,
+        "target_id": 134,
+        "strength": 1
+      },
+      {
+        "source_id": 44,
+        "target_id": 186,
+        "strength": 1
+      },
+      {
+        "source_id": 44,
+        "target_id": 187,
+        "strength": 1
+      },
+      {
+        "source_id": 44,
+        "target_id": 188,
+        "strength": 1
+      },
+      {
+        "source_id": 45,
+        "target_id": 134,
+        "strength": 1
+      },
+      {
+        "source_id": 45,
+        "target_id": 186,
+        "strength": 1
+      },
+      {
+        "source_id": 45,
+        "target_id": 187,
+        "strength": 1
+      },
+      {
+        "source_id": 45,
+        "target_id": 188,
+        "strength": 1
+      },
+      {
+        "source_id": 46,
+        "target_id": 134,
+        "strength": 1
+      },
+      {
+        "source_id": 46,
+        "target_id": 186,
+        "strength": 1
+      },
+      {
+        "source_id": 46,
+        "target_id": 187,
+        "strength": 1
+      },
+      {
+        "source_id": 46,
+        "target_id": 188,
+        "strength": 1
+      },
+      {
+        "source_id": 46,
+        "target_id": 278,
+        "strength": 1
+      },
+      {
+        "source_id": 47,
+        "target_id": 189,
+        "strength": 1
+      },
+      {
+        "source_id": 48,
+        "target_id": 195,
+        "strength": 1
+      },
+      {
+        "source_id": 49,
+        "target_id": 195,
+        "strength": 1
+      },
+      {
+        "source_id": 50,
+        "target_id": 159,
+        "strength": 1
+      },
+      {
+        "source_id": 50,
+        "target_id": 165,
+        "strength": 1
+      },
+      {
+        "source_id": 53,
+        "target_id": 159,
+        "strength": 1
+      },
+      {
+        "source_id": 55,
+        "target_id": 140,
+        "strength": 1
+      },
+      {
+        "source_id": 55,
+        "target_id": 205,
+        "strength": 1
+      },
+      {
+        "source_id": 56,
+        "target_id": 159,
+        "strength": 1
+      },
+      {
+        "source_id": 57,
+        "target_id": 159,
+        "strength": 1
+      },
+      {
+        "source_id": 60,
+        "target_id": 148,
+        "strength": 1
+      },
+      {
+        "source_id": 61,
+        "target_id": 148,
+        "strength": 1
+      },
+      {
+        "source_id": 63,
+        "target_id": 146,
+        "strength": 1
+      },
+      {
+        "source_id": 63,
+        "target_id": 211,
+        "strength": 1
+      },
+      {
+        "source_id": 64,
+        "target_id": 146,
+        "strength": 1
+      },
+      {
+        "source_id": 64,
+        "target_id": 211,
+        "strength": 1
+      },
+      {
+        "source_id": 65,
+        "target_id": 134,
+        "strength": 1
+      },
+      {
+        "source_id": 65,
+        "target_id": 212,
+        "strength": 1
+      },
+      {
+        "source_id": 66,
+        "target_id": 147,
+        "strength": 1
+      },
+      {
+        "source_id": 66,
+        "target_id": 167,
+        "strength": 1
+      },
+      {
+        "source_id": 66,
+        "target_id": 214,
+        "strength": 1
+      },
+      {
+        "source_id": 66,
+        "target_id": 215,
+        "strength": 1
+      },
+      {
+        "source_id": 66,
+        "target_id": 216,
+        "strength": 1
+      },
+      {
+        "source_id": 66,
+        "target_id": 217,
+        "strength": 1
+      },
+      {
+        "source_id": 66,
+        "target_id": 247,
+        "strength": 1
+      },
+      {
+        "source_id": 67,
+        "target_id": 134,
+        "strength": 1
+      },
+      {
+        "source_id": 68,
+        "target_id": 140,
+        "strength": 1
+      },
+      {
+        "source_id": 68,
+        "target_id": 222,
+        "strength": 1
+      },
+      {
+        "source_id": 68,
+        "target_id": 223,
+        "strength": 1
+      },
+      {
+        "source_id": 68,
+        "target_id": 272,
+        "strength": 1
+      },
+      {
+        "source_id": 68,
+        "target_id": 273,
+        "strength": 1
+      },
+      {
+        "source_id": 69,
+        "target_id": 135,
+        "strength": 1
+      },
+      {
+        "source_id": 72,
+        "target_id": 148,
+        "strength": 1
+      },
+      {
+        "source_id": 78,
+        "target_id": 186,
+        "strength": 1
+      },
+      {
+        "source_id": 78,
+        "target_id": 253,
+        "strength": 1
+      },
+      {
+        "source_id": 78,
+        "target_id": 254,
+        "strength": 1
+      },
+      {
+        "source_id": 79,
+        "target_id": 168,
+        "strength": 1
+      },
+      {
+        "source_id": 79,
+        "target_id": 257,
+        "strength": 1
+      },
+      {
+        "source_id": 79,
+        "target_id": 309,
+        "strength": 1
+      },
+      {
+        "source_id": 80,
+        "target_id": 168,
+        "strength": 1
+      },
+      {
+        "source_id": 80,
+        "target_id": 257,
+        "strength": 1
+      },
+      {
+        "source_id": 81,
+        "target_id": 156,
+        "strength": 1
+      },
+      {
+        "source_id": 82,
+        "target_id": 156,
+        "strength": 1
+      },
+      {
+        "source_id": 83,
+        "target_id": 120,
+        "strength": 1
+      },
+      {
+        "source_id": 83,
+        "target_id": 262,
+        "strength": 1
+      },
+      {
+        "source_id": 83,
+        "target_id": 263,
+        "strength": 1
+      },
+      {
+        "source_id": 83,
+        "target_id": 274,
+        "strength": 1
+      },
+      {
+        "source_id": 83,
+        "target_id": 275,
+        "strength": 1
+      },
+      {
+        "source_id": 84,
+        "target_id": 264,
+        "strength": 1
+      },
+      {
+        "source_id": 86,
+        "target_id": 278,
+        "strength": 1
+      },
+      {
+        "source_id": 92,
+        "target_id": 167,
+        "strength": 1
+      },
+      {
+        "source_id": 92,
+        "target_id": 282,
+        "strength": 1
+      },
+      {
+        "source_id": 93,
+        "target_id": 286,
+        "strength": 1
+      },
+      {
+        "source_id": 94,
+        "target_id": 139,
+        "strength": 1
+      },
+      {
+        "source_id": 95,
+        "target_id": 139,
+        "strength": 1
+      },
+      {
+        "source_id": 96,
+        "target_id": 134,
+        "strength": 1
+      },
+      {
+        "source_id": 96,
+        "target_id": 140,
+        "strength": 1
+      },
+      {
+        "source_id": 96,
+        "target_id": 287,
+        "strength": 1
+      },
+      {
+        "source_id": 97,
+        "target_id": 140,
+        "strength": 1
+      },
+      {
+        "source_id": 98,
+        "target_id": 288,
+        "strength": 1
+      },
+      {
+        "source_id": 98,
+        "target_id": 289,
+        "strength": 1
+      },
+      {
+        "source_id": 99,
+        "target_id": 140,
+        "strength": 1
+      },
+      {
+        "source_id": 99,
+        "target_id": 148,
+        "strength": 1
+      },
+      {
+        "source_id": 100,
+        "target_id": 140,
+        "strength": 1
+      },
+      {
+        "source_id": 100,
+        "target_id": 148,
+        "strength": 1
+      },
+      {
+        "source_id": 101,
+        "target_id": 135,
+        "strength": 1
+      },
+      {
+        "source_id": 101,
+        "target_id": 148,
+        "strength": 1
+      },
+      {
+        "source_id": 101,
+        "target_id": 296,
+        "strength": 1
+      },
+      {
+        "source_id": 104,
+        "target_id": 134,
+        "strength": 1
+      },
+      {
+        "source_id": 104,
+        "target_id": 300,
+        "strength": 1
+      },
+      {
+        "source_id": 104,
+        "target_id": 304,
+        "strength": 1
+      },
+      {
+        "source_id": 105,
+        "target_id": 134,
+        "strength": 1
+      },
+      {
+        "source_id": 105,
+        "target_id": 300,
+        "strength": 1
+      },
+      {
+        "source_id": 106,
+        "target_id": 134,
+        "strength": 1
+      },
+      {
+        "source_id": 106,
+        "target_id": 300,
+        "strength": 1
+      },
+      {
+        "source_id": 108,
+        "target_id": 190,
+        "strength": 1
+      },
+      {
+        "source_id": 110,
+        "target_id": 135,
+        "strength": 1
+      },
+      {
+        "source_id": 110,
+        "target_id": 148,
+        "strength": 1
+      },
+      {
+        "source_id": 110,
+        "target_id": 305,
+        "strength": 1
+      },
+      {
+        "source_id": 111,
+        "target_id": 300,
+        "strength": 1
+      },
+      {
+        "source_id": 111,
+        "target_id": 306,
+        "strength": 1
+      },
+      {
+        "source_id": 113,
+        "target_id": 165,
+        "strength": 1
+      },
+      {
+        "source_id": 114,
+        "target_id": 165,
+        "strength": 1
+      },
+      {
+        "source_id": 118,
+        "target_id": 140,
+        "strength": 1
+      },
+      {
+        "source_id": 118,
+        "target_id": 311,
+        "strength": 1
+      }
+    ]
+  }
+}
