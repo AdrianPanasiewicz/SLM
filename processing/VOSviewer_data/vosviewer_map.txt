@@ -8,7 +8,7 @@ id	label	cluster	weight<occurrences>
 7	biosensors	1	1
 8	healthcare	1	56
 9	dermatology	1	2
-10	cybersecurity	1	12
+10	cybersecurity	1	11
 11	agriculture	1	2
 12	electric vehicles	1	1
 13	intelligent transportation systems	1	2
@@ -16,297 +16,293 @@ id	label	cluster	weight<occurrences>
 15	natural language processing	1	11
 16	medical imaging	1	2
 17	image processing	1	8
-18	image classification	1	4
-19	computer vision	1	4
-20	blockchain	1	1
-21	electrical engineering	1	1
-22	internet-of-things	1	1
-23	office room occupancy	1	1
-24	optoelectronics	1	1
-25	solar cells	1	1
-26	catalysis	1	1
-27	materials informatics	1	1
-28	emergency management	1	1
-29	pattern recognition	1	1
-30	manufacturing	1	3
-31	infrastructure maintenance	1	1
-32	satellite imagery	1	2
-33	assistive communication technologies	1	1
-34	biosignal interpretation	1	1
-35	human–computer interaction	1	1
-36	food science	1	1
-37	drug discovery	1	4
-38	time-series forecasting	1	1
-39	aeroelasticity	1	1
-40	business	1	1
-41	network security	1	2
-42	image generation	1	1
-43	earth observation	1	2
-44	intelligent transportation	1	1
-45	power systems	1	1
-46	smart grid	1	2
-47	wearable technology	1	1
-48	security	1	1
-49	autonomous systems	1	1
-50	oil and gas	1	1
-51	neuroscience	1	1
-52	clinical research	1	1
-53	astrophysics	1	1
-54	robotics	1	1
-55	biomedical research	1	1
-56	fraud detection	1	1
-57	medical diagnosis	1	1
-58	social media	1	1
-59	hate speech detection	1	1
-60	streaming services	1	1
-61	movie recommendation	1	1
-62	fake news detection	1	1
-63	law enforcement	1	1
-64	counter-narcotics	1	1
-65	autonomous driving	1	1
-66	materials science	1	3
-67	network traffic analysis	1	1
-68	chemistry	1	2
-69	mining	1	1
-70	graph theory	1	1
-71	network analysis	1	1
-72	computational biology	1	1
-73	social networks	1	1
-74	quantum systems	1	1
-75	information hiding	1	1
-76	privacy-preserving computations	1	1
-77	quantum steganography	1	1
-78	satellite-ground communication	1	1
-79	image recognition	1	2
-80	traffic sign recognition	1	1
-81	psychology	1	1
-82	affective computing	1	1
-83	restaurant recommendation	1	2
-84	artificial intelligence	1	1
-85	audio processing	1	1
-86	energy	1	1
-87	underwater pipeline surveillance	1	1
-88	optical fibre surveillance	1	1
-89	ocean bed resource extraction	1	1
-90	ocean floor mapping	1	1
-91	underwater species exploration	1	1
-92	software engineering	1	1
-93	non-destructive testing	1	1
-94	additive manufacturing	1	1
-95	metallurgy	1	1
-96	uav surveillance systems	1	1
-97	imaging	1	1
-98	transportation	1	2
-99	environmental science	1	1
-100	disaster management	1	1
-101	speech emotion recognition	1	1
-102	face recognition	1	1
-103	sea clutter	1	1
-104	remote sensing	1	2
-105	geospatial	1	1
-106	land use and land cover classification	1	1
-107	urban mobility	1	1
-108	facial expression recognition	1	1
-109	photovoltaic array fault detection	1	1
-110	computational linguistics	1	1
-111	industrial inspection	1	1
-112	recommender systems	1	1
-113	structural health monitoring	1	1
-114	civil engineering	1	1
-115	medicine	1	1
-116	biology	1	1
-117	oncology	1	1
-118	quantum chemistry	1	1
-119	quantum reinforcement learning	2	1
-120	quantum machine learning	2	2
-121	quantum-inspired	2	1
-122	qcc-net	2	1
-123	time-series hamiltonian kernel	2	1
-124	fused quantum dual-backbone network	2	1
-125	quantum-enhanced classifier	2	1
-126	hybrid quantum–classical neural network	2	1
-127	fully quantum model	2	1
-128	hybrid model	2	1
-129	enhanced hybrid model	2	1
-130	variational quantum neural network	2	1
-131	quantum anomaly detector	2	1
-132	quantum recurrent neural network	2	2
-133	quantum long short-term memory	2	4
-134	quantum convolutional neural network	2	10
-135	variational quantum classifier	2	9
-136	quantum convolutional autoencoder	2	1
-137	quantum approximate optimization algorithm-inspired ansatz circuit	2	1
-138	quantum self-attention model	2	1
-139	variational quantum algorithms	2	3
-140	quantum neural network	2	19
-141	quantum-behaved particle swarm optimisation	2	1
-142	hybrid quantum–classical deep neural network	2	1
-143	quantum variational model	2	1
-144	quantum kernel model	2	1
-145	projected quantum kernel	2	1
-146	quantum kernel	2	2
-147	quantum support vector regression	2	2
-148	quantum support vector machine	2	20
-149	bagging-qsvm	2	1
-150	multilayer perceptron–variational quantum classifier	2	1
-151	batch upload quantum recurrent neural network	2	1
-152	parameter nonshared batch upload quantum recurrent neural network	2	1
-153	hybrid quantum neural network	2	2
-154	hybrid quantum neural network with a quanvolutional layer	2	1
-155	quantum ordering points to identify the clustering structure	2	1
-156	quantum variational classifier	2	4
-157	quantum variational kernel support vector machine	2	1
-158	variational quantum one-class classifier	2	1
-159	quantum autoencoder	2	6
-160	shallow quantum neural network	2	1
-161	resnet-sqnn	2	1
-162	vgg16-sqnn	2	1
-163	quantum generative adversarial networks	2	3
-164	hybrid quantum-classical deep learning model	2	1
-165	quantum classifier	2	3
-166	hybrid quantum–classical model	2	2
-167	quantum support vector classifier	2	7
-168	quanvolutional neural network	2	5
-169	bagging-qsvc	2	1
-170	quantum-enhanced k-nearest neighbor	2	1
-171	variational quantum regressions	2	1
-172	iqtransformer	2	1
-173	quantum self-attention mechanism	2	1
-174	hybrid quantum tensor networks	2	1
-175	instantaneous quantum polytime ansatz	2	1
-176	simple sentiment analysis ansatz	2	1
-177	hqwgan	2	1
-178	quantum tensor networks	2	1
-179	federated quantum tensor network	2	1
-180	tensor network	2	1
-181	neural quantum kernels	2	1
-182	classical-quantum neural networks	2	1
-183	classical-quantum boltzmann machines	2	1
-184	classical-quantum k-means clustering	2	1
-185	quantum graph neural networks	2	1
-186	quantum federated learning	2	2
-187	quantum orthogonal convolutional neural network	2	1
-188	quantum minimal gated orthogonal convolutional neural network	2	1
-189	quantum angle–distance kernel	2	1
-190	quantum circuit	2	2
-191	enhanced quantum lstm linear	2	1
-192	multi-multi-single (mms)	2	1
-193	multi-single-multi-single (msms)	2	1
-194	quantum variational circuit	2	1
-195	eulerian quantum neural network	2	1
-196	quantum-enhanced u-net	2	1
-197	optimized quantum support vector machine	2	1
-198	hybrid quantum multi-layer perceptron	2	1
-199	quantum-eegnet	2	1
-200	quantum-based learning models	2	1
-201	quantum patch attention vision transformer	2	1
-202	hybrid quantum deep learning model	2	1
-203	hybrid quantum deep reinforcement learning	2	1
-204	quantum deep reinforcement learning	2	1
-205	qnn-64	2	1
-206	quantum convolutional circuit	2	1
-207	hybrid quantum–classical convolutional neural network	2	2
-208	hybrid quantum–deep neural network	2	1
-209	quantum circuits	2	1
-210	ansatz	2	1
-211	quantum threat detection model	2	1
-212	qcnn	2	2
-213	qe-rnns	2	1
-214	hybrid quantum convolutional neural network	2	1
-215	quantum residual attention neural network	2	1
-216	qsann	2	1
-217	variational quantum regression	2	1
-218	qdeepcolonnet	2	1
-219	hybrid quantum-classical neural network	2	1
-220	qresnet18	2	1
-221	adaptive quantum convolutional neural network	2	1
-222	hybrid quantum generative models	2	1
-223	quantum cycle architectures	2	1
-224	quantum auto-encoder	2	1
-225	quantum one-class support vector machine	2	1
-226	quantum random forest	2	1
-227	quantum k-nearest neighbor	2	1
-228	quantum convolution neural network	2	1
-229	q-supcon	2	1
-230	quantum data augmentation circuit	2	1
-231	quantum encoder	2	1
-232	quantum projection head	2	1
-233	embedded quantum density-based spatial clustering	2	1
-234	discrete-time quantum walks	2	1
-235	quantum-optimized probabilistic u-net	2	1
-236	variational quantum active annotation loop	2	1
-237	hybrid quantum–classical adversarial domain harmonization	2	1
-238	quantum denoising convolutional neural network	2	1
-239	quantum-parameterized convolutional layer	2	1
-240	quantum graph recurrent neural networks	2	1
-241	qsvm	2	1
-242	qknn	2	1
-243	qdt	2	1
-244	zzfeaturemap	2	1
-245	realamplitudes	2	1
-246	efficientsu2	2	1
-247	quantum support vector classification	2	1
-248	hybrid quantum-neural network	2	1
-249	hybrid quantum-classical deep learning	2	1
-250	quantum support vector data description	2	1
-251	binary quadratic model	2	1
-252	quantum variational rewinding	2	1
-253	slimmable quantum federated learning	2	1
-254	slimmable quantum neural networks	2	1
-255	classical quantum k-nearest neighbors	2	1
-256	quantum k-nearest neighbors	2	2
-257	neural network with quantum entanglement	2	1
-258	dressed quantum circuit	2	1
-259	pegasos quantum support vector classifier	2	1
-260	quantum lstm	2	1
-261	hybrid quantum recurrent neural network	2	1
-262	quantum-enhanced clustering	2	1
-263	quantum-augmented long short term memory recurrent neural network	2	1
-264	complex quantum kernel self-attention network	2	1
-265	quantum autoencoders	2	1
-266	spiking quantum neural network	2	1
-267	random quantum neural networks	2	1
-268	quantum audio neural network	2	1
-269	quantum transformer learning	2	1
-270	generative adversarial networks	2	1
-271	quantum k-means	2	1
-272	quantum linear regression	2	1
-273	quantum radial basis function neural network	2	1
-274	quantum-powered optics	2	1
-275	quantum lstm networks	2	1
-276	hidden quantum markov model	2	1
-277	hybrid quantum computing model	2	1
-278	quantum load identification network	2	1
-279	quantum multi-class classifier	2	1
-280	variational circuit	2	1
-281	quantum-classical hybrid machine learning methods	2	1
-282	enhanced quantum support vector classifier	2	1
-283	qml-liver	2	1
-284	quantum naive bayes	2	1
-285	quantum logistic regression	2	1
-286	quantum-inspired neural networks	2	1
-287	scalable quantum convolutional neural network	2	1
-288	quantum variational circuits	2	1
-289	quantum transfer learning	2	1
-290	pretrained quantum-inspired deep neural network	2	1
-291	qpfe-ernie	2	1
-292	qwsd	2	1
-293	quantum deep convolutional generative adversarial networks	2	1
-294	qdcgan	2	1
-295	quantum kernel estimation	2	1
-296	quantum approximate optimisation algorithm-based classifier	2	1
-297	multigate quantum convolutional neural network	2	1
-298	quantum multi-head attention	2	1
-299	qlstm	2	1
-300	quantum cnn	2	2
-301	hybrid classical-quantum neural networks	2	1
-302	quantum-inspired machine learning models	2	1
-303	quantum-enhanced artificial neural network	2	1
-304	hybrid quantum classical convolutional neural network	2	1
-305	hybrid quantum-classical neural networks	2	1
-306	qsurfnet	2	1
-307	quantum k-means algorithm	2	1
-308	quantum image generative learning	2	1
-309	variational quantum deep neural network	2	1
-310	quantum kernels	2	1
-311	quantum extreme learning machine	2	1
+18	computer vision	1	4
+19	blockchain	1	1
+20	electrical engineering	1	1
+21	internet-of-things	1	1
+22	office room occupancy	1	1
+23	optoelectronics	1	1
+24	solar cells	1	1
+25	catalysis	1	1
+26	materials informatics	1	1
+27	emergency management	1	1
+28	pattern recognition	1	1
+29	manufacturing	1	3
+30	infrastructure maintenance	1	1
+31	satellite imagery	1	2
+32	assistive communication technologies	1	1
+33	biosignal interpretation	1	1
+34	human–computer interaction	1	1
+35	food science	1	1
+36	drug discovery	1	4
+37	time-series forecasting	1	1
+38	aeroelasticity	1	1
+39	business	1	1
+40	network security	1	2
+41	image generation	1	1
+42	earth observation	1	2
+43	intelligent transportation	1	1
+44	power systems	1	1
+45	smart grid	1	2
+46	wearable technology	1	1
+47	security	1	1
+48	autonomous systems	1	1
+49	oil and gas	1	1
+50	neuroscience	1	1
+51	clinical research	1	1
+52	astrophysics	1	1
+53	robotics	1	1
+54	biomedical research	1	1
+55	fraud detection	1	1
+56	medical diagnosis	1	1
+57	streaming services	1	1
+58	movie recommendation	1	1
+59	fake news detection	1	1
+60	law enforcement	1	1
+61	counter-narcotics	1	1
+62	autonomous driving	1	1
+63	materials science	1	3
+64	network traffic analysis	1	1
+65	image classification	1	3
+66	chemistry	1	2
+67	mining	1	1
+68	graph theory	1	1
+69	network analysis	1	1
+70	computational biology	1	1
+71	social networks	1	1
+72	quantum systems	1	1
+73	information hiding	1	1
+74	privacy-preserving computations	1	1
+75	quantum steganography	1	1
+76	satellite-ground communication	1	1
+77	image recognition	1	2
+78	traffic sign recognition	1	1
+79	psychology	1	1
+80	affective computing	1	1
+81	restaurant recommendation	1	2
+82	artificial intelligence	1	1
+83	audio processing	1	1
+84	energy	1	1
+85	underwater pipeline surveillance	1	1
+86	optical fibre surveillance	1	1
+87	ocean bed resource extraction	1	1
+88	ocean floor mapping	1	1
+89	underwater species exploration	1	1
+90	software engineering	1	1
+91	non-destructive testing	1	1
+92	additive manufacturing	1	1
+93	metallurgy	1	1
+94	uav surveillance systems	1	1
+95	imaging	1	1
+96	transportation	1	1
+97	environmental science	1	1
+98	disaster management	1	1
+99	speech emotion recognition	1	1
+100	face recognition	1	1
+101	sea clutter	1	1
+102	remote sensing	1	2
+103	geospatial	1	1
+104	land use and land cover classification	1	1
+105	facial expression recognition	1	1
+106	computational linguistics	1	1
+107	industrial inspection	1	1
+108	recommender systems	1	1
+109	structural health monitoring	1	1
+110	civil engineering	1	1
+111	medicine	1	1
+112	biology	1	1
+113	oncology	1	1
+114	quantum chemistry	1	1
+115	quantum reinforcement learning	2	1
+116	quantum machine learning	2	2
+117	quantum-inspired	2	1
+118	qcc-net	2	1
+119	time-series hamiltonian kernel	2	1
+120	fused quantum dual-backbone network	2	1
+121	quantum-enhanced classifier	2	1
+122	hybrid quantum–classical neural network	2	1
+123	fully quantum model	2	1
+124	hybrid model	2	1
+125	enhanced hybrid model	2	1
+126	variational quantum neural network	2	1
+127	quantum anomaly detector	2	1
+128	quantum recurrent neural network	2	2
+129	quantum long short-term memory	2	4
+130	quantum convolutional neural network	2	10
+131	variational quantum classifier	2	9
+132	quantum convolutional autoencoder	2	1
+133	quantum approximate optimization algorithm-inspired ansatz circuit	2	1
+134	quantum self-attention model	2	1
+135	variational quantum algorithms	2	3
+136	quantum neural network	2	19
+137	quantum-behaved particle swarm optimisation	2	1
+138	hybrid quantum–classical deep neural network	2	1
+139	quantum variational model	2	1
+140	quantum kernel model	2	1
+141	projected quantum kernel	2	1
+142	quantum kernel	2	2
+143	quantum support vector regression	2	2
+144	quantum support vector machine	2	20
+145	bagging-qsvm	2	1
+146	multilayer perceptron–variational quantum classifier	2	1
+147	batch upload quantum recurrent neural network	2	1
+148	parameter nonshared batch upload quantum recurrent neural network	2	1
+149	hybrid quantum neural network	2	2
+150	hybrid quantum neural network with a quanvolutional layer	2	1
+151	quantum ordering points to identify the clustering structure	2	1
+152	quantum variational classifier	2	4
+153	quantum variational kernel support vector machine	2	1
+154	variational quantum one-class classifier	2	1
+155	quantum autoencoder	2	6
+156	shallow quantum neural network	2	1
+157	resnet-sqnn	2	1
+158	vgg16-sqnn	2	1
+159	quantum generative adversarial networks	2	3
+160	hybrid quantum-classical deep learning model	2	1
+161	quantum classifier	2	3
+162	hybrid quantum–classical model	2	2
+163	quantum support vector classifier	2	7
+164	quanvolutional neural network	2	5
+165	bagging-qsvc	2	1
+166	quantum-enhanced k-nearest neighbor	2	1
+167	variational quantum regressions	2	1
+168	iqtransformer	2	1
+169	quantum self-attention mechanism	2	1
+170	hybrid quantum tensor networks	2	1
+171	instantaneous quantum polytime ansatz	2	1
+172	simple sentiment analysis ansatz	2	1
+173	hqwgan	2	1
+174	quantum tensor networks	2	1
+175	federated quantum tensor network	2	1
+176	tensor network	2	1
+177	neural quantum kernels	2	1
+178	classical-quantum neural networks	2	1
+179	classical-quantum boltzmann machines	2	1
+180	classical-quantum k-means clustering	2	1
+181	quantum graph neural networks	2	1
+182	quantum federated learning	2	2
+183	quantum orthogonal convolutional neural network	2	1
+184	quantum minimal gated orthogonal convolutional neural network	2	1
+185	quantum angle–distance kernel	2	1
+186	quantum circuit	2	2
+187	enhanced quantum lstm linear	2	1
+188	multi-multi-single (mms)	2	1
+189	multi-single-multi-single (msms)	2	1
+190	quantum variational circuit	2	1
+191	eulerian quantum neural network	2	1
+192	quantum-enhanced u-net	2	1
+193	optimized quantum support vector machine	2	1
+194	hybrid quantum multi-layer perceptron	2	1
+195	quantum-eegnet	2	1
+196	quantum-based learning models	2	1
+197	quantum patch attention vision transformer	2	1
+198	hybrid quantum deep learning model	2	1
+199	hybrid quantum deep reinforcement learning	2	1
+200	quantum deep reinforcement learning	2	1
+201	qnn-64	2	1
+202	quantum convolutional circuit	2	1
+203	hybrid quantum–classical convolutional neural network	2	2
+204	hybrid quantum–deep neural network	2	1
+205	quantum circuits	2	1
+206	ansatz	2	1
+207	quantum threat detection model	2	1
+208	qcnn	2	2
+209	qe-rnns	2	1
+210	hybrid quantum convolutional neural network	2	1
+211	quantum residual attention neural network	2	1
+212	qsann	2	1
+213	variational quantum regression	2	1
+214	qdeepcolonnet	2	1
+215	hybrid quantum-classical neural network	2	1
+216	qresnet18	2	1
+217	adaptive quantum convolutional neural network	2	1
+218	hybrid quantum generative models	2	1
+219	quantum cycle architectures	2	1
+220	quantum auto-encoder	2	1
+221	quantum one-class support vector machine	2	1
+222	quantum random forest	2	1
+223	quantum k-nearest neighbor	2	1
+224	quantum convolution neural network	2	1
+225	q-supcon	2	1
+226	quantum data augmentation circuit	2	1
+227	quantum encoder	2	1
+228	quantum projection head	2	1
+229	embedded quantum density-based spatial clustering	2	1
+230	discrete-time quantum walks	2	1
+231	quantum-optimized probabilistic u-net	2	1
+232	variational quantum active annotation loop	2	1
+233	hybrid quantum–classical adversarial domain harmonization	2	1
+234	quantum denoising convolutional neural network	2	1
+235	quantum-parameterized convolutional layer	2	1
+236	quantum graph recurrent neural networks	2	1
+237	qsvm	2	1
+238	qknn	2	1
+239	qdt	2	1
+240	zzfeaturemap	2	1
+241	realamplitudes	2	1
+242	efficientsu2	2	1
+243	quantum support vector classification	2	1
+244	hybrid quantum-neural network	2	1
+245	hybrid quantum-classical deep learning	2	1
+246	quantum support vector data description	2	1
+247	binary quadratic model	2	1
+248	quantum variational rewinding	2	1
+249	slimmable quantum federated learning	2	1
+250	slimmable quantum neural networks	2	1
+251	classical quantum k-nearest neighbors	2	1
+252	quantum k-nearest neighbors	2	2
+253	neural network with quantum entanglement	2	1
+254	dressed quantum circuit	2	1
+255	pegasos quantum support vector classifier	2	1
+256	quantum lstm	2	1
+257	hybrid quantum recurrent neural network	2	1
+258	quantum-enhanced clustering	2	1
+259	quantum-augmented long short term memory recurrent neural network	2	1
+260	complex quantum kernel self-attention network	2	1
+261	quantum autoencoders	2	1
+262	spiking quantum neural network	2	1
+263	random quantum neural networks	2	1
+264	quantum audio neural network	2	1
+265	quantum transformer learning	2	1
+266	generative adversarial networks	2	1
+267	quantum k-means	2	1
+268	quantum linear regression	2	1
+269	quantum radial basis function neural network	2	1
+270	quantum-powered optics	2	1
+271	quantum lstm networks	2	1
+272	hidden quantum markov model	2	1
+273	hybrid quantum computing model	2	1
+274	quantum load identification network	2	1
+275	quantum multi-class classifier	2	1
+276	variational circuit	2	1
+277	quantum-classical hybrid machine learning methods	2	1
+278	enhanced quantum support vector classifier	2	1
+279	qml-liver	2	1
+280	quantum naive bayes	2	1
+281	quantum logistic regression	2	1
+282	quantum-inspired neural networks	2	1
+283	scalable quantum convolutional neural network	2	1
+284	quantum variational circuits	2	1
+285	quantum transfer learning	2	1
+286	pretrained quantum-inspired deep neural network	2	1
+287	qpfe-ernie	2	1
+288	qwsd	2	1
+289	quantum deep convolutional generative adversarial networks	2	1
+290	qdcgan	2	1
+291	quantum kernel estimation	2	1
+292	quantum approximate optimisation algorithm-based classifier	2	1
+293	multigate quantum convolutional neural network	2	1
+294	quantum multi-head attention	2	1
+295	qlstm	2	1
+296	quantum cnn	2	2
+297	hybrid classical-quantum neural networks	2	1
+298	quantum-inspired machine learning models	2	1
+299	quantum-enhanced artificial neural network	2	1
+300	hybrid quantum classical convolutional neural network	2	1
+301	hybrid quantum-classical neural networks	2	1
+302	qsurfnet	2	1
+303	quantum k-means algorithm	2	1
+304	quantum image generative learning	2	1
+305	variational quantum deep neural network	2	1
+306	quantum kernels	2	1
+307	quantum extreme learning machine	2	1
